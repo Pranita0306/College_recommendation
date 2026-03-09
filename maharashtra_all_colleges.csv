@@ -1,0 +1,388 @@
+College,Program,Location,District,Type,General,OBC,SC,ST,Avg_Fees_Annual,Placement_%
+College of Engineering Pune (CoEP),IoT and Embedded Systems,Pune,Pune,Government,83.81,78.97,69.41,67.41,29532.0,79.8
+College of Engineering Pune (CoEP),Computer Science Engineering,Pune,Pune,Government,82.39,79.28,72.35,62.61,23231.0,78.8
+College of Engineering Pune (CoEP),Civil Engineering,Pune,Pune,Government,61.49,59.09,49.01,42.82,26044.0,88.91
+College of Engineering Pune (CoEP),Production Engineering,Pune,Pune,Government,72.92,69.31,61.09,59.07,27977.0,98.07
+College of Engineering Pune (CoEP),Computer Science and Engineering (AI & ML),Pune,Pune,Government,70.05,68.02,56.14,54.47,48548.0,99.12
+DY Patil Institute of Technology,Production Engineering,Pune,Pune,Private,67.11,64.61,57.46,49.25,226845.0,90.06
+DY Patil Institute of Technology,Mechanical Engineering,Pune,Pune,Private,65.65,62.08,52.52,51.27,103847.0,93.06
+DY Patil Institute of Technology,Electronics and Telecommunication Engineering,Pune,Pune,Private,68.01,65.36,53.21,48.7,143558.0,97.9
+DY Patil Institute of Technology,Biotechnology Engineering,Pune,Pune,Private,58.34,54.88,46.3,38.62,167647.0,94.25
+DY Patil Institute of Technology,Chemical Engineering,Pune,Pune,Private,71.1,66.93,57.65,55.89,114218.0,97.43
+DY Patil Institute of Technology,Electronics Engineering,Pune,Pune,Private,66.33,62.91,54.97,53.28,95885.0,80.04
+DY Patil Institute of Technology,Software Engineering,Pune,Pune,Private,44.1,41.17,33.16,27.31,121451.0,76.76
+Pimpri Chinchwad College of Engineering (PCCOE),Automobile Engineering,Pune,Pune,Private,49.48,46.85,41.07,29.68,79645.0,88.29
+Pimpri Chinchwad College of Engineering (PCCOE),Aeronautical Engineering,Pune,Pune,Private,72.72,68.94,64.43,59.69,190162.0,94.0
+Pimpri Chinchwad College of Engineering (PCCOE),Electronics Engineering,Pune,Pune,Private,74.24,70.11,62.95,57.52,85486.0,79.54
+Pimpri Chinchwad College of Engineering (PCCOE),Computer Science and Engineering (AI & ML),Pune,Pune,Private,60.73,57.97,49.95,48.5,76956.0,85.96
+Pimpri Chinchwad College of Engineering (PCCOE),Biotechnology Engineering,Pune,Pune,Private,59.27,56.9,48.43,46.3,124175.0,77.34
+Pimpri Chinchwad College of Engineering (PCCOE),IoT and Embedded Systems,Pune,Pune,Private,45.17,43.08,32.89,25.58,90186.0,99.36
+MIT Academy of Engineering,Textile Engineering,Pune,Pune,Private,72.0,69.64,57.12,59.54,122694.0,81.0
+MIT Academy of Engineering,Agricultural Engineering,Pune,Pune,Private,64.35,60.87,53.43,52.18,107089.0,95.72
+MIT Academy of Engineering,Information Technology,Pune,Pune,Private,51.54,47.88,38.32,35.57,109821.0,88.09
+MIT Academy of Engineering,Electronics and Telecommunication Engineering,Pune,Pune,Private,60.18,57.88,50.47,47.87,225827.0,84.74
+MIT Academy of Engineering,Biotechnology Engineering,Pune,Pune,Private,64.26,59.73,52.2,48.87,188732.0,86.13
+MIT Academy of Engineering,Chemical Engineering,Pune,Pune,Private,68.25,63.65,56.74,50.74,214160.0,97.08
+Bharati Vidyapeeth College of Engineering,IoT and Embedded Systems,Pune,Pune,Private,65.79,61.5,56.71,53.09,82884.0,91.63
+Bharati Vidyapeeth College of Engineering,Automobile Engineering,Pune,Pune,Private,74.21,70.64,65.32,60.19,126210.0,94.01
+Bharati Vidyapeeth College of Engineering,Chemical Engineering,Pune,Pune,Private,45.79,42.71,34.2,32.9,115591.0,75.29
+Bharati Vidyapeeth College of Engineering,Power Electronics,Pune,Pune,Private,67.29,63.91,54.2,53.87,163744.0,92.09
+Bharati Vidyapeeth College of Engineering,Mechanical Engineering,Pune,Pune,Private,41.54,39.27,27.46,22.5,229286.0,97.47
+Bharati Vidyapeeth College of Engineering,Information Technology,Pune,Pune,Private,47.67,43.74,38.5,29.72,228148.0,84.2
+Army Institute of Technology,Production Engineering,Pune,Pune,Private,69.43,64.45,58.06,52.87,188414.0,95.04
+Army Institute of Technology,Computer Science and Engineering (Data Science),Pune,Pune,Private,67.24,63.97,53.44,53.94,237183.0,96.11
+Army Institute of Technology,Environmental Engineering,Pune,Pune,Private,59.81,55.06,45.81,40.7,106137.0,77.67
+Army Institute of Technology,Biotechnology Engineering,Pune,Pune,Private,65.4,62.4,52.4,47.39,103601.0,92.64
+Dr. D.Y. Patil School of Engineering,Production Engineering,Akurdi,Pune,Private,57.22,53.02,43.55,37.75,198647.0,83.26
+Dr. D.Y. Patil School of Engineering,Automobile Engineering,Akurdi,Pune,Private,42.33,39.98,28.14,30.18,92937.0,86.18
+Dr. D.Y. Patil School of Engineering,Aeronautical Engineering,Akurdi,Pune,Private,53.5,48.86,43.94,39.12,163473.0,86.54
+Dr. D.Y. Patil School of Engineering,Instrumentation Engineering,Akurdi,Pune,Private,65.45,61.94,51.9,51.4,120100.0,99.02
+Dr. D.Y. Patil School of Engineering,Computer Science and Engineering (Data Science),Akurdi,Pune,Private,49.09,44.32,38.72,29.12,118591.0,90.03
+Dr. D.Y. Patil School of Engineering,Electronics and Telecommunication Engineering,Akurdi,Pune,Private,41.67,39.34,30.91,25.24,110469.0,92.24
+Dr. D.Y. Patil School of Engineering,Chemical Engineering,Akurdi,Pune,Private,71.41,69.15,57.98,55.91,163568.0,75.12
+Dr. D.Y. Patil School of Engineering,Electronics Engineering,Akurdi,Pune,Private,68.32,66.17,55.55,53.41,119770.0,90.32
+Symbiosis Institute of Technology,Chemical Engineering,Pune,Pune,Private,41.34,38.25,30.42,21.54,172990.0,89.71
+Symbiosis Institute of Technology,Civil Engineering,Pune,Pune,Private,50.73,46.88,38.66,31.18,120438.0,86.91
+Symbiosis Institute of Technology,IoT and Embedded Systems,Pune,Pune,Private,47.21,43.46,33.45,28.6,198380.0,86.12
+Symbiosis Institute of Technology,Production Engineering,Pune,Pune,Private,44.56,41.48,35.43,28.08,153311.0,96.27
+AISSMS College of Engineering,Environmental Engineering,Pune,Pune,Private,40.49,37.42,28.54,25.75,156602.0,83.49
+AISSMS College of Engineering,Instrumentation Engineering,Pune,Pune,Private,72.82,69.33,61.47,58.36,243185.0,83.33
+AISSMS College of Engineering,Biotechnology Engineering,Pune,Pune,Private,58.24,56.02,44.48,45.06,142043.0,76.35
+AISSMS College of Engineering,Power Electronics,Pune,Pune,Private,58.11,56.05,47.75,44.52,188012.0,83.13
+AISSMS College of Engineering,Textile Engineering,Pune,Pune,Private,69.46,66.26,55.48,53.0,60386.0,88.59
+AISSMS College of Engineering,Chemical Engineering,Pune,Pune,Private,41.11,36.36,32.52,22.82,137888.0,88.33
+Vishwakarma Institute of Technology,Biotechnology Engineering,Pune,Pune,Private,74.16,71.21,65.46,54.18,91173.0,75.3
+Vishwakarma Institute of Technology,Chemical Engineering,Pune,Pune,Private,69.85,66.41,60.95,57.47,134881.0,94.55
+Vishwakarma Institute of Technology,Aeronautical Engineering,Pune,Pune,Private,70.75,66.26,62.38,57.88,126603.0,99.99
+Vishwakarma Institute of Technology,Software Engineering,Pune,Pune,Private,50.23,46.89,38.71,30.41,224846.0,84.29
+Vishwakarma Institute of Technology,Electronics Engineering,Pune,Pune,Private,56.77,54.04,42.78,44.03,242924.0,76.08
+Vishwakarma Institute of Technology,Mechanical Engineering,Pune,Pune,Private,66.27,61.54,54.63,53.62,154975.0,76.43
+Sinhgad Academy of Engineering,Software Engineering,Pune,Pune,Private,69.84,66.8,58.98,52.63,133997.0,93.59
+Sinhgad Academy of Engineering,Aeronautical Engineering,Pune,Pune,Private,42.1,37.9,32.47,24.5,75438.0,81.42
+Sinhgad Academy of Engineering,Computer Science and Engineering (AI & ML),Pune,Pune,Private,64.86,60.58,56.02,51.67,100949.0,76.44
+Sinhgad Academy of Engineering,Production Engineering,Pune,Pune,Private,68.9,65.31,56.05,55.46,176916.0,88.37
+Sinhgad Academy of Engineering,IoT and Embedded Systems,Pune,Pune,Private,65.44,62.13,55.61,51.13,191621.0,94.71
+Sinhgad Academy of Engineering,Mechanical Engineering,Pune,Pune,Private,71.13,69.07,61.59,58.09,220129.0,78.21
+Sinhgad Academy of Engineering,Chemical Engineering,Pune,Pune,Private,42.85,39.32,31.24,23.33,232680.0,83.55
+Sinhgad Institute of Technology,Automobile Engineering,Pune,Pune,Private,67.61,63.0,54.38,50.02,69890.0,75.73
+Sinhgad Institute of Technology,Production Engineering,Pune,Pune,Private,42.65,38.61,30.02,24.26,67692.0,92.81
+Sinhgad Institute of Technology,Chemical Engineering,Pune,Pune,Private,50.13,47.52,37.3,32.61,240135.0,87.88
+Sinhgad Institute of Technology,Computer Science Engineering,Pune,Pune,Private,77.93,75.88,66.21,62.9,208963.0,84.5
+Sinhgad College of Engineering,Mechanical Engineering,Pune,Pune,Private,46.09,42.17,33.35,33.0,122207.0,88.55
+Sinhgad College of Engineering,Textile Engineering,Pune,Pune,Private,65.47,62.61,51.01,51.39,88487.0,77.66
+Sinhgad College of Engineering,Production Engineering,Pune,Pune,Private,70.45,66.04,58.51,56.59,66699.0,81.67
+Sinhgad College of Engineering,Instrumentation Engineering,Pune,Pune,Private,52.97,49.01,40.4,33.75,153239.0,83.79
+Sinhgad College of Engineering,Computer Science and Engineering (AI & ML),Pune,Pune,Private,77.35,73.16,62.5,59.71,114786.0,91.28
+Sinhgad College of Engineering,Power Electronics,Pune,Pune,Private,74.15,69.62,65.43,55.51,170179.0,91.78
+Pune Institute of Computer Technology (PICT),IoT and Embedded Systems,Pune,Pune,Private,50.3,45.47,35.8,32.86,168731.0,97.55
+Pune Institute of Computer Technology (PICT),Biotechnology Engineering,Pune,Pune,Private,66.89,62.89,52.81,54.81,84490.0,91.08
+Pune Institute of Computer Technology (PICT),Artificial Intelligence and Data Science,Pune,Pune,Private,51.04,46.1,36.12,34.3,153424.0,87.69
+Pune Institute of Computer Technology (PICT),Instrumentation Engineering,Pune,Pune,Private,48.61,44.66,38.16,30.27,61467.0,98.09
+Pune Institute of Computer Technology (PICT),Electrical Engineering,Pune,Pune,Private,52.27,49.97,39.26,33.62,221511.0,92.01
+Pillar College of Engineering,Electronics Engineering,Pune,Pune,Private,71.56,69.2,57.93,56.98,52925.0,88.88
+Pillar College of Engineering,Electrical Engineering,Pune,Pune,Private,58.7,55.4,46.94,40.47,180896.0,99.63
+Pillar College of Engineering,Software Engineering,Pune,Pune,Private,43.42,38.51,34.26,29.0,231613.0,86.45
+Pillar College of Engineering,IoT and Embedded Systems,Pune,Pune,Private,54.77,51.45,43.93,42.6,95629.0,75.0
+Pillar College of Engineering,Computer Science and Engineering (Data Science),Pune,Pune,Private,74.6,69.91,65.67,56.12,105934.0,90.81
+Marathwada Institute of Technology,Production Engineering,Pune,Pune,Private,43.92,40.11,30.86,25.19,104240.0,78.85
+Marathwada Institute of Technology,Electronics and Telecommunication Engineering,Pune,Pune,Private,72.35,70.16,57.58,59.68,55873.0,91.65
+Marathwada Institute of Technology,Aeronautical Engineering,Pune,Pune,Private,68.22,66.11,56.29,52.46,149339.0,85.42
+Marathwada Institute of Technology,Automobile Engineering,Pune,Pune,Private,62.05,58.88,50.9,48.63,181073.0,85.7
+Marathwada Institute of Technology,Power Electronics,Pune,Pune,Private,67.4,65.23,53.13,48.16,68922.0,77.18
+Genba Sopanrao Moze College of Engineering,Artificial Intelligence and Data Science,Pune,Pune,Private,61.25,58.37,49.66,48.39,199551.0,91.19
+Genba Sopanrao Moze College of Engineering,Environmental Engineering,Pune,Pune,Private,53.07,48.7,42.39,35.33,74642.0,92.99
+Genba Sopanrao Moze College of Engineering,Mechanical Engineering,Pune,Pune,Private,63.57,59.62,53.84,44.66,84054.0,75.37
+Genba Sopanrao Moze College of Engineering,Software Engineering,Pune,Pune,Private,72.61,68.97,62.47,53.1,249168.0,80.36
+Genba Sopanrao Moze College of Engineering,Civil Engineering,Pune,Pune,Private,39.42,35.73,30.97,25.9,157000.0,88.23
+Genba Sopanrao Moze College of Engineering,IoT and Embedded Systems,Pune,Pune,Private,55.69,51.96,47.55,35.83,141317.0,82.79
+Genba Sopanrao Moze College of Engineering,Chemical Engineering,Pune,Pune,Private,49.42,46.82,40.26,34.2,245554.0,99.82
+Genba Sopanrao Moze College of Engineering,Power Electronics,Pune,Pune,Private,72.98,70.57,59.3,59.58,200818.0,88.7
+Government Polytechnic Pune,Electronics and Telecommunication Engineering,Pune,Pune,Government,72.98,69.92,61.15,55.13,41475.0,96.03
+Government Polytechnic Pune,Production Engineering,Pune,Pune,Government,73.41,70.58,60.58,59.93,67772.0,75.96
+Government Polytechnic Pune,Environmental Engineering,Pune,Pune,Government,69.56,67.29,60.32,56.92,20845.0,99.67
+Government Polytechnic Pune,IoT and Embedded Systems,Pune,Pune,Government,80.74,77.98,68.08,65.76,47783.0,82.74
+Government Polytechnic Pune,Instrumentation Engineering,Pune,Pune,Government,71.78,68.67,62.88,52.94,56671.0,81.96
+Government Polytechnic Pune,Information Technology,Pune,Pune,Government,75.47,71.64,63.75,57.37,61771.0,98.55
+Veermata Jijabai Technological Institute (VJTI),Textile Engineering,Mumbai,Mumbai,Government,72.98,69.26,59.42,60.36,27751.0,85.39
+Veermata Jijabai Technological Institute (VJTI),Agricultural Engineering,Mumbai,Mumbai,Government,66.95,63.68,52.72,52.25,42759.0,90.59
+Veermata Jijabai Technological Institute (VJTI),Aeronautical Engineering,Mumbai,Mumbai,Government,73.59,71.06,61.48,56.03,61215.0,83.77
+Veermata Jijabai Technological Institute (VJTI),Software Engineering,Mumbai,Mumbai,Government,66.96,63.61,56.41,54.05,61429.0,75.27
+Veermata Jijabai Technological Institute (VJTI),Chemical Engineering,Mumbai,Mumbai,Government,73.39,68.77,64.88,56.23,45346.0,93.94
+Institute of Chemical Technology,Civil Engineering,Mumbai,Mumbai,Deemed,83.23,80.23,74.48,66.22,61727.0,93.43
+Institute of Chemical Technology,Mechanical Engineering,Mumbai,Mumbai,Deemed,83.28,79.65,70.07,67.64,71162.0,87.31
+Institute of Chemical Technology,Agricultural Engineering,Mumbai,Mumbai,Deemed,74.69,72.51,60.18,61.97,21278.0,81.26
+Institute of Chemical Technology,Automobile Engineering,Mumbai,Mumbai,Deemed,84.93,81.34,71.31,66.11,78238.0,85.48
+Institute of Chemical Technology,Artificial Intelligence and Data Science,Mumbai,Mumbai,Deemed,87.19,83.69,75.99,70.51,52783.0,92.42
+Thakur College of Engineering and Technology,Electrical Engineering,Mumbai,Mumbai,Private,64.66,61.26,52.27,46.84,206891.0,76.93
+Thakur College of Engineering and Technology,Computer Science and Engineering (AI & ML),Mumbai,Mumbai,Private,52.49,48.1,42.96,37.62,248260.0,98.43
+Thakur College of Engineering and Technology,Biotechnology Engineering,Mumbai,Mumbai,Private,42.4,40.34,33.63,24.21,110934.0,84.48
+Thakur College of Engineering and Technology,Production Engineering,Mumbai,Mumbai,Private,59.55,55.7,47.54,44.43,197483.0,80.74
+Thakur College of Engineering and Technology,Information Technology,Mumbai,Mumbai,Private,43.84,38.87,35.6,25.26,137030.0,89.6
+Fr. Conceicao Rodrigues College of Engineering,Computer Science Engineering,Mumbai,Mumbai,Private,56.56,52.25,44.92,37.57,165739.0,97.04
+Fr. Conceicao Rodrigues College of Engineering,Civil Engineering,Mumbai,Mumbai,Private,44.94,40.37,33.12,26.02,206415.0,81.62
+Fr. Conceicao Rodrigues College of Engineering,Mechanical Engineering,Mumbai,Mumbai,Private,68.42,65.11,54.54,54.89,128373.0,88.34
+Fr. Conceicao Rodrigues College of Engineering,Chemical Engineering,Mumbai,Mumbai,Private,66.39,62.5,54.73,51.77,104850.0,92.42
+Fr. Conceicao Rodrigues College of Engineering,Textile Engineering,Mumbai,Mumbai,Private,69.01,65.81,54.99,50.8,67970.0,87.97
+Fr. Conceicao Rodrigues College of Engineering,Agricultural Engineering,Mumbai,Mumbai,Private,57.6,54.14,42.81,38.55,139498.0,94.52
+Fr. Conceicao Rodrigues College of Engineering,Computer Science and Engineering (AI & ML),Mumbai,Mumbai,Private,57.7,55.51,46.21,39.09,144383.0,84.16
+Fr. Conceicao Rodrigues College of Engineering,Power Electronics,Mumbai,Mumbai,Private,51.37,49.26,42.87,32.83,218386.0,76.72
+DJ Sanghvi College of Engineering,Computer Science and Engineering (AI & ML),Mumbai,Mumbai,Private,52.89,49.63,41.41,35.13,85372.0,86.12
+DJ Sanghvi College of Engineering,Computer Science Engineering,Mumbai,Mumbai,Private,73.76,70.12,65.7,55.83,145154.0,86.43
+DJ Sanghvi College of Engineering,Civil Engineering,Mumbai,Mumbai,Private,42.2,38.07,31.31,22.32,99442.0,99.55
+DJ Sanghvi College of Engineering,Power Electronics,Mumbai,Mumbai,Private,66.69,62.63,56.05,50.3,67254.0,92.76
+DJ Sanghvi College of Engineering,IoT and Embedded Systems,Mumbai,Mumbai,Private,69.53,64.59,58.02,56.64,166397.0,89.11
+DJ Sanghvi College of Engineering,Production Engineering,Mumbai,Mumbai,Private,58.79,55.76,47.81,45.61,167644.0,92.82
+Thadomal Shahani Engineering College,Automobile Engineering,Mumbai,Mumbai,Private,66.63,63.94,53.68,50.89,157226.0,95.12
+Thadomal Shahani Engineering College,Software Engineering,Mumbai,Mumbai,Private,63.92,60.35,55.22,50.93,63657.0,79.84
+Thadomal Shahani Engineering College,Mechanical Engineering,Mumbai,Mumbai,Private,71.09,66.48,60.18,54.2,227182.0,87.51
+Thadomal Shahani Engineering College,IoT and Embedded Systems,Mumbai,Mumbai,Private,46.18,43.25,36.07,31.22,238789.0,78.66
+Thadomal Shahani Engineering College,Computer Science and Engineering (AI & ML),Mumbai,Mumbai,Private,55.0,51.26,46.25,35.88,243905.0,82.23
+Vidyalankar School of Information Technology,Production Engineering,Mumbai,Mumbai,Private,50.37,46.83,36.91,38.0,180399.0,95.9
+Vidyalankar School of Information Technology,Electronics and Telecommunication Engineering,Mumbai,Mumbai,Private,74.98,70.39,61.1,60.55,111131.0,75.96
+Vidyalankar School of Information Technology,Computer Science and Engineering (AI & ML),Mumbai,Mumbai,Private,65.88,62.13,51.68,47.4,190410.0,97.38
+Vidyalankar School of Information Technology,Environmental Engineering,Mumbai,Mumbai,Private,44.34,41.79,33.62,25.95,160636.0,91.47
+Vidyalankar School of Information Technology,Civil Engineering,Mumbai,Mumbai,Private,61.03,58.0,47.72,45.59,66041.0,96.38
+Vidyalankar School of Information Technology,Computer Science and Engineering (Data Science),Mumbai,Mumbai,Private,59.22,56.9,49.18,41.89,102546.0,75.8
+SIES Graduate School of Technology,Instrumentation Engineering,Mumbai,Mumbai,Private,65.95,62.97,54.51,53.83,186986.0,83.39
+SIES Graduate School of Technology,Automobile Engineering,Mumbai,Mumbai,Private,49.44,45.35,35.16,29.54,199190.0,98.53
+SIES Graduate School of Technology,Production Engineering,Mumbai,Mumbai,Private,61.91,58.13,52.11,48.61,141622.0,93.95
+SIES Graduate School of Technology,Power Electronics,Mumbai,Mumbai,Private,55.13,51.03,41.55,37.81,117447.0,83.79
+SIES Graduate School of Technology,Civil Engineering,Mumbai,Mumbai,Private,38.5,35.42,24.18,19.03,205896.0,76.36
+SIES Graduate School of Technology,Aeronautical Engineering,Mumbai,Mumbai,Private,48.14,46.08,37.49,35.96,173993.0,80.89
+Ramrao Adik Institute of Technology,Information Technology,Navi Mumbai,Mumbai,Private,44.73,40.42,30.64,25.51,150556.0,90.5
+Ramrao Adik Institute of Technology,Production Engineering,Navi Mumbai,Mumbai,Private,43.23,39.02,34.71,27.69,134296.0,85.51
+Ramrao Adik Institute of Technology,Civil Engineering,Navi Mumbai,Mumbai,Private,62.63,57.9,50.64,43.41,129619.0,95.63
+Ramrao Adik Institute of Technology,Automobile Engineering,Navi Mumbai,Mumbai,Private,48.73,44.63,35.74,34.95,153032.0,96.52
+Ramrao Adik Institute of Technology,Environmental Engineering,Navi Mumbai,Mumbai,Private,52.59,48.39,40.55,37.22,227855.0,97.84
+K. J. Somaiya College of Engineering,Power Electronics,Mumbai,Mumbai,Private,64.49,60.72,53.85,44.71,79458.0,79.27
+K. J. Somaiya College of Engineering,Electrical Engineering,Mumbai,Mumbai,Private,53.93,51.32,42.29,41.29,189120.0,94.99
+K. J. Somaiya College of Engineering,Chemical Engineering,Mumbai,Mumbai,Private,57.08,54.52,43.81,40.42,52578.0,94.35
+K. J. Somaiya College of Engineering,Civil Engineering,Mumbai,Mumbai,Private,42.13,37.45,30.01,23.84,135229.0,75.35
+Mukesh Patel School of Technology,Computer Science and Engineering (AI & ML),Mumbai,Mumbai,Private,46.01,43.55,32.16,28.41,119803.0,88.41
+Mukesh Patel School of Technology,Automobile Engineering,Mumbai,Mumbai,Private,67.13,64.25,58.7,55.0,120396.0,95.38
+Mukesh Patel School of Technology,Artificial Intelligence and Data Science,Mumbai,Mumbai,Private,57.56,52.9,44.46,41.88,161320.0,90.52
+Mukesh Patel School of Technology,Computer Science Engineering,Mumbai,Mumbai,Private,77.28,73.18,64.01,64.64,84122.0,76.68
+Mukesh Patel School of Technology,Biotechnology Engineering,Mumbai,Mumbai,Private,61.22,57.98,46.62,46.71,247884.0,97.26
+Government Polytechnic Mumbai,Production Engineering,Mumbai,Mumbai,Government,65.89,63.56,53.93,52.7,26336.0,84.91
+Government Polytechnic Mumbai,Computer Science Engineering,Mumbai,Mumbai,Government,85.65,81.15,77.51,71.32,42644.0,98.21
+Government Polytechnic Mumbai,Electronics and Telecommunication Engineering,Mumbai,Mumbai,Government,73.91,70.58,64.97,59.19,40276.0,84.15
+Government Polytechnic Mumbai,Aeronautical Engineering,Mumbai,Mumbai,Government,78.08,74.13,67.97,63.71,78445.0,78.85
+Government Polytechnic Mumbai,Environmental Engineering,Mumbai,Mumbai,Government,65.17,61.06,50.43,52.21,32338.0,90.3
+Government Polytechnic Mumbai,Textile Engineering,Mumbai,Mumbai,Government,67.29,64.02,56.15,48.95,27942.0,95.27
+Government Polytechnic Mumbai,Software Engineering,Mumbai,Mumbai,Government,81.13,76.79,68.06,62.7,63460.0,80.06
+Vivekanand Education Society's Institute of Technology,Chemical Engineering,Pune,Pune,Private,65.74,62.44,56.93,47.65,240606.0,79.57
+Vivekanand Education Society's Institute of Technology,Computer Science and Engineering (AI & ML),Pune,Pune,Private,49.81,45.47,37.45,33.61,113720.0,90.99
+Vivekanand Education Society's Institute of Technology,Software Engineering,Pune,Pune,Private,56.4,52.24,42.48,41.59,154491.0,96.01
+Vivekanand Education Society's Institute of Technology,Agricultural Engineering,Pune,Pune,Private,53.62,51.13,40.5,38.07,156067.0,85.73
+Visvesvaraya National Institute of Technology (VNIT),Environmental Engineering,Nagpur,Nagpur,NIT,94.4,92.16,84.19,78.68,52077.0,98.55
+Visvesvaraya National Institute of Technology (VNIT),Textile Engineering,Nagpur,Nagpur,NIT,88.83,84.83,79.02,69.51,54853.0,90.19
+Visvesvaraya National Institute of Technology (VNIT),Biotechnology Engineering,Nagpur,Nagpur,NIT,91.68,87.18,78.76,73.9,54085.0,77.23
+Visvesvaraya National Institute of Technology (VNIT),IoT and Embedded Systems,Nagpur,Nagpur,NIT,87.98,85.49,76.88,69.7,36697.0,86.88
+Visvesvaraya National Institute of Technology (VNIT),Computer Science Engineering,Nagpur,Nagpur,NIT,94.31,91.22,82.87,81.64,73985.0,94.82
+Yeshwantrao Chavan College of Engineering,Information Technology,Nagpur,Nagpur,Private,40.79,38.16,32.53,24.71,153566.0,83.72
+Yeshwantrao Chavan College of Engineering,Artificial Intelligence and Data Science,Nagpur,Nagpur,Private,47.42,42.74,33.11,34.13,228021.0,76.62
+Yeshwantrao Chavan College of Engineering,Biotechnology Engineering,Nagpur,Nagpur,Private,44.27,39.56,30.49,28.96,168208.0,84.91
+Yeshwantrao Chavan College of Engineering,Aeronautical Engineering,Nagpur,Nagpur,Private,69.44,67.19,56.42,53.01,128983.0,79.3
+Yeshwantrao Chavan College of Engineering,Production Engineering,Nagpur,Nagpur,Private,64.71,61.48,55.22,50.01,221241.0,91.41
+Yeshwantrao Chavan College of Engineering,Instrumentation Engineering,Nagpur,Nagpur,Private,57.26,54.73,45.78,40.11,219693.0,90.72
+Yeshwantrao Chavan College of Engineering,Environmental Engineering,Nagpur,Nagpur,Private,69.31,65.04,56.42,53.74,123195.0,76.67
+RAISONI College of Engineering,Mechanical Engineering,Nagpur,Nagpur,Private,45.73,43.03,31.92,28.61,86038.0,93.44
+RAISONI College of Engineering,Electronics and Telecommunication Engineering,Nagpur,Nagpur,Private,41.19,36.49,29.8,24.68,156074.0,86.35
+RAISONI College of Engineering,Computer Science Engineering,Nagpur,Nagpur,Private,65.81,62.61,57.34,46.14,163583.0,81.64
+RAISONI College of Engineering,Electrical Engineering,Nagpur,Nagpur,Private,56.6,54.44,44.48,43.77,73279.0,89.9
+Priyadarshini College of Engineering,Mechanical Engineering,Nagpur,Nagpur,Private,64.4,61.76,56.27,49.91,69225.0,99.85
+Priyadarshini College of Engineering,Software Engineering,Nagpur,Nagpur,Private,42.58,40.38,31.31,28.0,50294.0,89.97
+Priyadarshini College of Engineering,Power Electronics,Nagpur,Nagpur,Private,55.95,50.97,40.97,37.86,66770.0,97.31
+Priyadarshini College of Engineering,Environmental Engineering,Nagpur,Nagpur,Private,51.95,49.9,37.15,39.57,96691.0,88.99
+Priyadarshini College of Engineering,Information Technology,Nagpur,Nagpur,Private,55.26,52.05,42.62,42.56,111120.0,84.34
+Priyadarshini College of Engineering,Instrumentation Engineering,Nagpur,Nagpur,Private,42.6,39.32,31.88,28.11,153665.0,76.23
+Priyadarshini College of Engineering,IoT and Embedded Systems,Nagpur,Nagpur,Private,48.58,44.82,39.72,32.26,245254.0,97.46
+Priyadarshini College of Engineering,Textile Engineering,Nagpur,Nagpur,Private,65.16,63.03,54.34,51.91,218357.0,91.64
+G.H. Raisoni Academy of Engineering and Technology,Power Electronics,Nagpur,Nagpur,Private,65.26,62.81,55.69,45.41,74009.0,81.1
+G.H. Raisoni Academy of Engineering and Technology,Computer Science Engineering,Nagpur,Nagpur,Private,64.13,60.12,50.56,46.62,121099.0,75.74
+G.H. Raisoni Academy of Engineering and Technology,IoT and Embedded Systems,Nagpur,Nagpur,Private,58.28,54.23,47.05,44.44,207693.0,92.19
+G.H. Raisoni Academy of Engineering and Technology,Production Engineering,Nagpur,Nagpur,Private,62.39,59.23,54.25,43.24,130500.0,84.69
+G.H. Raisoni Academy of Engineering and Technology,Textile Engineering,Nagpur,Nagpur,Private,45.52,42.76,37.25,30.41,104820.0,88.21
+Government College of Engineering Nagpur,Mechanical Engineering,Nagpur,Nagpur,Government,79.32,77.09,67.03,62.6,62533.0,90.22
+Government College of Engineering Nagpur,Electrical Engineering,Nagpur,Nagpur,Government,66.44,61.6,54.62,52.46,59259.0,89.91
+Government College of Engineering Nagpur,Biotechnology Engineering,Nagpur,Nagpur,Government,80.5,75.8,66.13,67.26,30449.0,86.59
+Government College of Engineering Nagpur,Power Electronics,Nagpur,Nagpur,Government,70.2,67.18,58.93,52.73,30451.0,92.66
+DKTE Textile and Engineering Institute,IoT and Embedded Systems,Kolhapur,Kolhapur,Private,61.62,56.68,53.26,43.16,100359.0,86.71
+DKTE Textile and Engineering Institute,Automobile Engineering,Kolhapur,Kolhapur,Private,55.36,51.7,41.07,42.29,174501.0,81.5
+DKTE Textile and Engineering Institute,Electrical Engineering,Kolhapur,Kolhapur,Private,46.93,43.04,32.63,29.92,244710.0,89.33
+DKTE Textile and Engineering Institute,Electronics Engineering,Kolhapur,Kolhapur,Private,55.06,50.99,45.6,37.85,80373.0,89.15
+DKTE Textile and Engineering Institute,Information Technology,Kolhapur,Kolhapur,Private,65.61,60.76,55.25,51.9,194363.0,89.53
+DKTE Textile and Engineering Institute,Environmental Engineering,Kolhapur,Kolhapur,Private,71.29,66.4,60.76,52.16,113519.0,97.29
+DKTE Textile and Engineering Institute,Electronics and Telecommunication Engineering,Kolhapur,Kolhapur,Private,40.93,37.69,30.37,21.81,189976.0,80.06
+DKTE Textile and Engineering Institute,Computer Science and Engineering (Data Science),Kolhapur,Kolhapur,Private,58.82,55.87,47.62,39.38,86431.0,93.73
+KIT's College of Engineering,Power Electronics,Kolhapur,Kolhapur,Private,70.23,66.74,61.34,57.49,118627.0,81.9
+KIT's College of Engineering,Computer Science and Engineering (AI & ML),Kolhapur,Kolhapur,Private,77.04,74.3,62.37,61.32,200205.0,88.58
+KIT's College of Engineering,Production Engineering,Kolhapur,Kolhapur,Private,43.96,41.79,31.7,30.16,219935.0,77.76
+KIT's College of Engineering,Chemical Engineering,Kolhapur,Kolhapur,Private,72.76,69.09,59.05,54.44,86779.0,87.69
+KIT's College of Engineering,Artificial Intelligence and Data Science,Kolhapur,Kolhapur,Private,50.07,47.94,38.77,35.39,177694.0,88.61
+KIT's College of Engineering,Biotechnology Engineering,Kolhapur,Kolhapur,Private,69.76,65.45,57.28,52.71,158009.0,81.59
+Walchand College of Engineering,Automobile Engineering,Sangli,Sangli,Private,59.7,56.99,44.86,43.17,70708.0,95.27
+Walchand College of Engineering,Information Technology,Sangli,Sangli,Private,56.97,52.78,47.32,38.5,223905.0,97.95
+Walchand College of Engineering,Mechanical Engineering,Sangli,Sangli,Private,73.25,69.74,59.14,56.49,247916.0,84.91
+Walchand College of Engineering,Computer Science and Engineering (AI & ML),Sangli,Sangli,Private,52.78,49.37,39.61,36.46,242835.0,77.89
+Walchand College of Engineering,Agricultural Engineering,Sangli,Sangli,Private,67.48,62.81,58.53,54.16,62341.0,84.84
+Rajarambapu Institute of Technology (RIT),Electrical Engineering,Ratnagiri,Ratnagiri,Private,56.88,53.77,44.44,43.27,249006.0,87.47
+Rajarambapu Institute of Technology (RIT),Biotechnology Engineering,Ratnagiri,Ratnagiri,Private,66.13,61.91,53.71,46.71,217538.0,86.83
+Rajarambapu Institute of Technology (RIT),Software Engineering,Ratnagiri,Ratnagiri,Private,66.15,61.91,55.49,50.32,63154.0,91.24
+Rajarambapu Institute of Technology (RIT),Agricultural Engineering,Ratnagiri,Ratnagiri,Private,58.63,56.16,47.96,42.04,183327.0,83.82
+Rajarambapu Institute of Technology (RIT),Instrumentation Engineering,Ratnagiri,Ratnagiri,Private,53.18,49.81,42.58,40.23,87754.0,77.01
+Rajarambapu Institute of Technology (RIT),Artificial Intelligence and Data Science,Ratnagiri,Ratnagiri,Private,68.73,64.31,55.13,54.86,164699.0,84.86
+Rajarambapu Institute of Technology (RIT),Environmental Engineering,Ratnagiri,Ratnagiri,Private,47.8,44.77,39.58,32.43,169819.0,85.19
+Rajarambapu Institute of Technology (RIT),Production Engineering,Ratnagiri,Ratnagiri,Private,68.2,64.44,60.02,56.17,162987.0,96.62
+Government College of Engineering Aurangabad,Information Technology,Aurangabad,Aurangabad,Government,66.77,61.9,58.23,50.9,40719.0,75.59
+Government College of Engineering Aurangabad,IoT and Embedded Systems,Aurangabad,Aurangabad,Government,84.45,80.99,76.02,71.92,54118.0,88.27
+Government College of Engineering Aurangabad,Biotechnology Engineering,Aurangabad,Aurangabad,Government,80.45,76.47,70.39,61.79,31460.0,91.45
+Government College of Engineering Aurangabad,Civil Engineering,Aurangabad,Aurangabad,Government,78.94,75.56,66.76,59.49,34889.0,88.1
+Government College of Engineering Aurangabad,Textile Engineering,Aurangabad,Aurangabad,Government,71.82,67.71,58.73,57.03,58246.0,89.15
+Government College of Engineering Aurangabad,Chemical Engineering,Aurangabad,Aurangabad,Government,74.99,70.03,66.82,59.29,73405.0,80.64
+Swami Ramanand Teerth Marathwada University,Agricultural Engineering,Aurangabad,Aurangabad,Government,61.78,58.5,49.26,43.09,63588.0,87.81
+Swami Ramanand Teerth Marathwada University,Electronics and Telecommunication Engineering,Aurangabad,Aurangabad,Government,79.46,76.95,68.88,60.88,68718.0,92.95
+Swami Ramanand Teerth Marathwada University,Environmental Engineering,Aurangabad,Aurangabad,Government,67.6,63.51,54.74,51.69,74303.0,77.58
+Swami Ramanand Teerth Marathwada University,Electronics Engineering,Aurangabad,Aurangabad,Government,74.15,70.6,63.71,60.18,21634.0,76.83
+Swami Ramanand Teerth Marathwada University,Automobile Engineering,Aurangabad,Aurangabad,Government,82.35,78.89,73.63,69.57,39343.0,87.94
+Swami Ramanand Teerth Marathwada University,Textile Engineering,Aurangabad,Aurangabad,Government,81.77,79.31,67.05,67.44,58745.0,83.41
+Guru Nanak Institute of Technology,Software Engineering,Ibadpur,Nashik,Private,47.38,43.09,33.91,32.95,155902.0,81.48
+Guru Nanak Institute of Technology,Chemical Engineering,Ibadpur,Nashik,Private,72.57,68.02,63.85,54.78,95471.0,90.18
+Guru Nanak Institute of Technology,Computer Science and Engineering (Data Science),Ibadpur,Nashik,Private,68.4,64.28,59.01,52.12,88965.0,89.91
+Guru Nanak Institute of Technology,Textile Engineering,Ibadpur,Nashik,Private,67.93,64.83,59.19,55.58,153806.0,93.07
+Guru Nanak Institute of Technology,Information Technology,Ibadpur,Nashik,Private,42.9,39.36,34.19,23.84,187057.0,92.98
+Guru Nanak Institute of Technology,Computer Science and Engineering (AI & ML),Ibadpur,Nashik,Private,59.9,55.31,46.13,40.47,95099.0,79.68
+Guru Nanak Institute of Technology,Environmental Engineering,Ibadpur,Nashik,Private,44.02,41.69,29.91,25.21,221230.0,94.54
+Shree L.R. Tiwari College of Engineering,Computer Science and Engineering (Data Science),Nashik,Nashik,Private,72.54,69.74,62.1,53.65,171703.0,77.71
+Shree L.R. Tiwari College of Engineering,Textile Engineering,Nashik,Nashik,Private,44.34,40.01,30.65,28.6,143285.0,87.32
+Shree L.R. Tiwari College of Engineering,Power Electronics,Nashik,Nashik,Private,40.74,35.87,27.37,22.95,74469.0,81.51
+Shree L.R. Tiwari College of Engineering,Automobile Engineering,Nashik,Nashik,Private,64.44,60.07,54.34,47.96,235861.0,92.53
+Shree L.R. Tiwari College of Engineering,Electrical Engineering,Nashik,Nashik,Private,66.55,62.62,58.42,51.57,135203.0,76.96
+JSPM's Rajarshi Shahu College of Engineering,Environmental Engineering,Nashik,Nashik,Private,48.4,45.08,38.8,31.48,215279.0,96.61
+JSPM's Rajarshi Shahu College of Engineering,IoT and Embedded Systems,Nashik,Nashik,Private,60.88,57.37,47.29,45.94,127567.0,85.97
+JSPM's Rajarshi Shahu College of Engineering,Electrical Engineering,Nashik,Nashik,Private,59.09,56.29,48.57,41.22,105449.0,75.39
+JSPM's Rajarshi Shahu College of Engineering,Civil Engineering,Nashik,Nashik,Private,69.77,65.57,61.05,54.51,198168.0,94.91
+JSPM's Rajarshi Shahu College of Engineering,Biotechnology Engineering,Nashik,Nashik,Private,52.25,47.68,40.0,36.3,65302.0,84.14
+JSPM's Rajarshi Shahu College of Engineering,Computer Science Engineering,Nashik,Nashik,Private,60.85,56.91,49.2,43.88,179093.0,87.13
+JSPM's Rajarshi Shahu College of Engineering,Electronics and Telecommunication Engineering,Nashik,Nashik,Private,45.52,42.79,32.81,27.74,65503.0,95.92
+JSPM's Rajarshi Shahu College of Engineering,Power Electronics,Nashik,Nashik,Private,43.13,38.21,28.16,30.59,183565.0,97.94
+Dr. Babasaheb Ambedkar Technological University,Biotechnology Engineering,Lonere,Raigad,Government,77.42,74.02,66.54,61.96,39640.0,77.77
+Dr. Babasaheb Ambedkar Technological University,Computer Science Engineering,Lonere,Raigad,Government,80.01,76.79,70.9,60.66,73512.0,84.18
+Dr. Babasaheb Ambedkar Technological University,Software Engineering,Lonere,Raigad,Government,79.61,75.21,71.24,62.48,52220.0,88.82
+Dr. Babasaheb Ambedkar Technological University,Aeronautical Engineering,Lonere,Raigad,Government,65.14,63.01,51.67,52.78,41600.0,87.66
+Dr. Babasaheb Ambedkar Technological University,Civil Engineering,Lonere,Raigad,Government,61.51,58.77,51.81,43.73,28114.0,80.95
+Dr. Babasaheb Ambedkar Technological University,IoT and Embedded Systems,Lonere,Raigad,Government,70.7,67.78,57.1,55.27,65778.0,97.09
+Dr. Babasaheb Ambedkar Technological University,Agricultural Engineering,Lonere,Raigad,Government,76.4,72.97,63.61,61.93,49872.0,89.05
+Dr. Babasaheb Ambedkar Technological University,Automobile Engineering,Lonere,Raigad,Government,79.15,74.62,66.43,64.33,50806.0,86.7
+Terna Engineering College,Automobile Engineering,Satara,Satara,Private,52.39,47.79,41.55,37.24,58082.0,84.9
+Terna Engineering College,IoT and Embedded Systems,Satara,Satara,Private,65.62,61.61,55.02,53.1,69493.0,76.29
+Terna Engineering College,Software Engineering,Satara,Satara,Private,43.03,39.97,34.08,29.27,53627.0,96.3
+Terna Engineering College,Instrumentation Engineering,Satara,Satara,Private,66.86,64.67,54.72,49.95,121754.0,96.49
+Terna Engineering College,Production Engineering,Satara,Satara,Private,56.47,53.7,44.91,43.98,138053.0,90.48
+Terna Engineering College,Electrical Engineering,Satara,Satara,Private,46.84,44.47,35.2,34.32,204300.0,89.69
+Terna Engineering College,Biotechnology Engineering,Satara,Satara,Private,67.72,65.48,58.09,48.1,208382.0,93.41
+Annasaheb Dange College of Engineering,Textile Engineering,Satara,Satara,Private,60.87,57.6,46.66,48.63,241951.0,77.23
+Annasaheb Dange College of Engineering,Environmental Engineering,Satara,Satara,Private,52.87,49.54,43.2,34.63,110110.0,84.04
+Annasaheb Dange College of Engineering,IoT and Embedded Systems,Satara,Satara,Private,71.04,69.02,62.9,53.9,222253.0,77.34
+Annasaheb Dange College of Engineering,Computer Science and Engineering (Data Science),Satara,Satara,Private,61.72,58.64,48.72,47.57,185069.0,90.58
+Annasaheb Dange College of Engineering,Aeronautical Engineering,Satara,Satara,Private,49.98,46.05,38.89,32.91,212761.0,91.01
+Solapur University College of Engineering,Software Engineering,Solapur,Solapur,Government,76.26,73.86,62.14,56.41,76936.0,78.45
+Solapur University College of Engineering,IoT and Embedded Systems,Solapur,Solapur,Government,67.97,63.25,57.22,52.09,46075.0,86.28
+Solapur University College of Engineering,Electronics and Telecommunication Engineering,Solapur,Solapur,Government,73.43,68.63,61.42,56.53,65635.0,87.17
+Solapur University College of Engineering,Instrumentation Engineering,Solapur,Solapur,Government,70.8,66.03,56.89,53.95,78869.0,81.81
+Solapur University College of Engineering,Textile Engineering,Solapur,Solapur,Government,76.39,74.15,67.1,58.99,32659.0,91.89
+Solapur University College of Engineering,Electronics Engineering,Solapur,Solapur,Government,77.32,75.23,65.62,62.3,37224.0,95.68
+JSPM Solapur,Artificial Intelligence and Data Science,Solapur,Solapur,Private,69.24,64.26,56.02,52.41,129718.0,79.5
+JSPM Solapur,Production Engineering,Solapur,Solapur,Private,55.82,53.16,46.16,40.9,71371.0,98.28
+JSPM Solapur,Electrical Engineering,Solapur,Solapur,Private,57.13,52.9,46.63,42.44,130949.0,82.4
+JSPM Solapur,Chemical Engineering,Solapur,Solapur,Private,74.98,71.77,62.85,57.37,185623.0,86.8
+JSPM Solapur,Electronics Engineering,Solapur,Solapur,Private,44.75,41.8,30.45,28.89,84267.0,96.28
+Shantidoot Madhavrao Patil College of Engineering,Agricultural Engineering,Jalgaon,Jalgaon,Private,49.74,47.04,36.03,35.45,190424.0,97.95
+Shantidoot Madhavrao Patil College of Engineering,Electrical Engineering,Jalgaon,Jalgaon,Private,66.89,63.97,53.35,47.68,224544.0,94.43
+Shantidoot Madhavrao Patil College of Engineering,Artificial Intelligence and Data Science,Jalgaon,Jalgaon,Private,49.9,46.0,38.05,36.17,160620.0,84.93
+Shantidoot Madhavrao Patil College of Engineering,Information Technology,Jalgaon,Jalgaon,Private,41.92,39.11,29.95,25.78,77850.0,80.45
+Shantidoot Madhavrao Patil College of Engineering,Automobile Engineering,Jalgaon,Jalgaon,Private,40.04,36.55,25.99,26.3,102989.0,76.72
+Dr. Panjabrao Deshmukh Agricultural University,Agricultural Engineering,Akola,Akola,Government,74.95,70.52,60.65,62.06,33190.0,90.46
+Dr. Panjabrao Deshmukh Agricultural University,Textile Engineering,Akola,Akola,Government,73.78,70.44,58.79,58.04,34839.0,93.31
+Dr. Panjabrao Deshmukh Agricultural University,Artificial Intelligence and Data Science,Akola,Akola,Government,74.42,70.43,65.97,58.16,71462.0,98.68
+Dr. Panjabrao Deshmukh Agricultural University,Aeronautical Engineering,Akola,Akola,Government,79.36,76.64,70.48,60.77,56585.0,83.74
+Dr. Panjabrao Deshmukh Agricultural University,Computer Science Engineering,Akola,Akola,Government,84.73,82.14,76.16,68.94,62333.0,98.3
+Dr. Panjabrao Deshmukh Agricultural University,Environmental Engineering,Akola,Akola,Government,66.87,62.77,53.81,52.35,20714.0,91.96
+Dr. Panjabrao Deshmukh Agricultural University,IoT and Embedded Systems,Akola,Akola,Government,70.15,66.05,56.71,57.62,66398.0,98.45
+Dr. Panjabrao Deshmukh Agricultural University,Electronics and Telecommunication Engineering,Akola,Akola,Government,74.37,69.81,63.51,57.16,31924.0,92.77
+Government College of Engineering Amravati,Textile Engineering,Amravati,Amravati,Government,77.12,72.66,68.59,60.71,32304.0,84.38
+Government College of Engineering Amravati,Electrical Engineering,Amravati,Amravati,Government,76.53,72.26,67.84,63.27,64605.0,91.57
+Government College of Engineering Amravati,Electronics and Telecommunication Engineering,Amravati,Amravati,Government,67.95,63.37,54.55,50.94,53518.0,98.07
+Government College of Engineering Amravati,Computer Science and Engineering (Data Science),Amravati,Amravati,Government,74.07,69.24,60.46,56.8,72266.0,98.26
+Government College of Engineering Amravati,Mechanical Engineering,Amravati,Amravati,Government,77.86,74.13,67.93,65.36,77427.0,78.58
+Government College of Engineering Amravati,Aeronautical Engineering,Amravati,Amravati,Government,71.59,67.6,57.19,58.76,72663.0,93.67
+Government College of Engineering Amravati,Power Electronics,Amravati,Amravati,Government,77.14,74.7,65.82,61.28,42013.0,83.94
+Government College of Engineering Amravati,Agricultural Engineering,Amravati,Amravati,Government,76.6,72.37,63.12,61.99,39357.0,99.77
+Deogiri Institute of Engineering and Management Studies,Aeronautical Engineering,Nanded,Nanded,Private,67.7,65.18,55.11,51.21,58371.0,77.55
+Deogiri Institute of Engineering and Management Studies,Mechanical Engineering,Nanded,Nanded,Private,58.51,53.71,45.74,43.62,176485.0,82.55
+Deogiri Institute of Engineering and Management Studies,Instrumentation Engineering,Nanded,Nanded,Private,58.77,55.56,45.84,40.16,109024.0,84.48
+Deogiri Institute of Engineering and Management Studies,Production Engineering,Nanded,Nanded,Private,63.27,60.52,53.98,44.94,136429.0,76.11
+Deogiri Institute of Engineering and Management Studies,Biotechnology Engineering,Nanded,Nanded,Private,53.09,48.66,41.85,40.38,160038.0,92.3
+Deogiri Institute of Engineering and Management Studies,Computer Science and Engineering (Data Science),Nanded,Nanded,Private,77.82,74.14,67.87,59.15,205883.0,91.82
+Deogiri Institute of Engineering and Management Studies,Computer Science Engineering,Nanded,Nanded,Private,78.84,76.47,68.82,65.19,85876.0,97.16
+"Manipal University, Jaipur (Maharashtra Campus)",Electronics and Telecommunication Engineering,Pune,Pune,Private,66.06,63.53,55.48,50.72,238334.0,81.16
+"Manipal University, Jaipur (Maharashtra Campus)",Environmental Engineering,Pune,Pune,Private,68.14,64.62,57.61,48.93,178319.0,97.89
+"Manipal University, Jaipur (Maharashtra Campus)",Computer Science Engineering,Pune,Pune,Private,46.43,42.97,33.14,26.9,124850.0,96.32
+"Manipal University, Jaipur (Maharashtra Campus)",Biotechnology Engineering,Pune,Pune,Private,57.65,53.76,48.05,41.63,66360.0,79.61
+MIT World Peace University,Electrical Engineering,Pune,Pune,Private,55.63,52.22,42.77,37.8,161145.0,91.99
+MIT World Peace University,Computer Science and Engineering (Data Science),Pune,Pune,Private,53.68,50.44,41.61,40.67,196290.0,94.48
+MIT World Peace University,Textile Engineering,Pune,Pune,Private,42.58,39.12,30.19,26.36,121437.0,78.06
+MIT World Peace University,Instrumentation Engineering,Pune,Pune,Private,67.25,63.83,56.29,49.78,71948.0,75.57
+Cummins College of Engineering for Women,Information Technology,Pune,Pune,Private,42.09,39.66,31.91,29.86,158825.0,87.64
+Cummins College of Engineering for Women,Computer Science Engineering,Pune,Pune,Private,62.35,57.43,50.79,49.53,207399.0,82.8
+Cummins College of Engineering for Women,Aeronautical Engineering,Pune,Pune,Private,60.04,55.71,47.07,42.29,181221.0,99.43
+Cummins College of Engineering for Women,Artificial Intelligence and Data Science,Pune,Pune,Private,62.87,59.96,52.68,48.32,166700.0,86.35
+Cummins College of Engineering for Women,Electronics and Telecommunication Engineering,Pune,Pune,Private,51.3,47.67,37.75,31.5,224652.0,79.55
+Cummins College of Engineering for Women,Textile Engineering,Pune,Pune,Private,61.47,57.23,50.22,45.37,164232.0,90.92
+MIDC School of Computing,Computer Science and Engineering (Data Science),Aurangabad,Aurangabad,Government,76.8,73.47,62.58,57.3,46206.0,86.83
+MIDC School of Computing,Mechanical Engineering,Aurangabad,Aurangabad,Government,66.75,63.83,58.14,51.76,32310.0,75.78
+MIDC School of Computing,Chemical Engineering,Aurangabad,Aurangabad,Government,71.69,67.83,63.44,58.87,50807.0,96.39
+MIDC School of Computing,Power Electronics,Aurangabad,Aurangabad,Government,82.77,80.51,68.43,66.5,36614.0,82.96
+MIDC School of Computing,Artificial Intelligence and Data Science,Aurangabad,Aurangabad,Government,84.63,79.83,71.0,65.47,71358.0,75.66
+Ashokrao Mane Group of Institutions,Artificial Intelligence and Data Science,Kolhapur,Kolhapur,Private,70.18,66.61,59.88,54.27,194961.0,83.05
+Ashokrao Mane Group of Institutions,Computer Science Engineering,Kolhapur,Kolhapur,Private,68.43,66.35,53.79,52.81,146567.0,75.93
+Ashokrao Mane Group of Institutions,Software Engineering,Kolhapur,Kolhapur,Private,49.87,45.4,35.04,32.21,216845.0,93.22
+Ashokrao Mane Group of Institutions,Agricultural Engineering,Kolhapur,Kolhapur,Private,40.15,38.09,28.22,26.02,187964.0,92.29
+Ashokrao Mane Group of Institutions,Mechanical Engineering,Kolhapur,Kolhapur,Private,48.27,44.98,37.25,29.6,188373.0,99.33
+Ashokrao Mane Group of Institutions,IoT and Embedded Systems,Kolhapur,Kolhapur,Private,51.28,46.36,39.24,38.25,77336.0,93.16
+Ashokrao Mane Group of Institutions,Power Electronics,Kolhapur,Kolhapur,Private,69.12,64.68,60.45,54.48,156939.0,99.09
+Ashokrao Mane Group of Institutions,Aeronautical Engineering,Kolhapur,Kolhapur,Private,50.4,47.29,35.59,36.39,192057.0,94.52
+Sanjivani College of Engineering,Artificial Intelligence and Data Science,Kopargaon,Ahmednagar,Private,43.59,41.21,30.57,28.02,209439.0,85.64
+Sanjivani College of Engineering,Civil Engineering,Kopargaon,Ahmednagar,Private,48.14,45.31,37.19,29.12,157136.0,88.6
+Sanjivani College of Engineering,Chemical Engineering,Kopargaon,Ahmednagar,Private,46.92,43.57,34.17,27.08,236122.0,92.87
+Sanjivani College of Engineering,Environmental Engineering,Kopargaon,Ahmednagar,Private,57.86,53.9,47.83,39.76,189625.0,80.78
+Sanjivani College of Engineering,Biotechnology Engineering,Kopargaon,Ahmednagar,Private,51.67,47.86,37.37,32.85,185691.0,78.31
+Sanjivani College of Engineering,Aeronautical Engineering,Kopargaon,Ahmednagar,Private,42.55,39.87,31.46,30.52,62880.0,93.55
+Sanjivani College of Engineering,Production Engineering,Kopargaon,Ahmednagar,Private,56.49,53.46,43.93,38.81,127020.0,77.67
+Sanjivani College of Engineering,Power Electronics,Kopargaon,Ahmednagar,Private,69.56,64.84,59.34,49.85,170126.0,91.62
+Pravara Rural College of Engineering,Biotechnology Engineering,Loni,Ahmednagar,Private,72.58,68.78,59.91,55.9,228873.0,96.91
+Pravara Rural College of Engineering,Agricultural Engineering,Loni,Ahmednagar,Private,56.98,54.56,43.85,42.98,150407.0,91.17
+Pravara Rural College of Engineering,Textile Engineering,Loni,Ahmednagar,Private,56.93,54.18,44.39,37.81,73421.0,96.6
+Pravara Rural College of Engineering,Computer Science Engineering,Loni,Ahmednagar,Private,79.59,75.75,65.69,59.67,124543.0,76.64
+Pravara Rural College of Engineering,Computer Science and Engineering (AI & ML),Loni,Ahmednagar,Private,52.74,50.35,38.31,32.74,77800.0,92.57
+Pravara Rural College of Engineering,Electronics and Telecommunication Engineering,Loni,Ahmednagar,Private,54.39,51.64,45.98,38.21,62907.0,92.77
+MGM College of Engineering,Chemical Engineering,Nanded,Nanded,Private,47.85,43.57,39.75,31.43,118250.0,79.51
+MGM College of Engineering,Information Technology,Nanded,Nanded,Private,56.34,53.47,45.52,41.88,247144.0,98.41
+MGM College of Engineering,Instrumentation Engineering,Nanded,Nanded,Private,42.46,39.37,31.34,23.82,211054.0,79.07
+MGM College of Engineering,Agricultural Engineering,Nanded,Nanded,Private,47.06,44.15,34.92,30.31,72873.0,93.71
+MGM College of Engineering,Electrical Engineering,Nanded,Nanded,Private,67.53,65.4,55.0,50.39,246227.0,95.67
+MGM College of Engineering,Electronics Engineering,Nanded,Nanded,Private,62.68,58.07,52.61,44.46,101881.0,80.31
+MGM College of Engineering,Civil Engineering,Nanded,Nanded,Private,37.67,35.45,22.68,20.02,233655.0,83.45
+Dr. Vithalrao Vikhe Patil College of Engineering,Electrical Engineering,Ahmednagar,Ahmednagar,Private,72.89,69.59,58.33,55.81,132095.0,76.85
+Dr. Vithalrao Vikhe Patil College of Engineering,Production Engineering,Ahmednagar,Ahmednagar,Private,69.95,65.65,55.87,57.89,178409.0,86.85
+Dr. Vithalrao Vikhe Patil College of Engineering,Computer Science and Engineering (Data Science),Ahmednagar,Ahmednagar,Private,60.36,56.44,48.4,45.01,162690.0,85.37
+Dr. Vithalrao Vikhe Patil College of Engineering,Power Electronics,Ahmednagar,Ahmednagar,Private,74.39,70.15,63.58,60.0,114273.0,85.38
+Dr. Vithalrao Vikhe Patil College of Engineering,Software Engineering,Ahmednagar,Ahmednagar,Private,52.54,50.05,42.76,33.33,180187.0,86.82
+Dr. Vithalrao Vikhe Patil College of Engineering,Environmental Engineering,Ahmednagar,Ahmednagar,Private,64.41,61.3,51.89,52.02,104949.0,83.07
+PDEA's College of Engineering,Computer Science and Engineering (Data Science),Ahmednagar,Ahmednagar,Private,65.04,61.45,52.09,48.84,196233.0,76.83
+PDEA's College of Engineering,IoT and Embedded Systems,Ahmednagar,Ahmednagar,Private,46.31,43.0,34.24,32.29,99409.0,84.91
+PDEA's College of Engineering,Production Engineering,Ahmednagar,Ahmednagar,Private,64.18,60.31,50.98,48.74,162819.0,80.51
+PDEA's College of Engineering,Textile Engineering,Ahmednagar,Ahmednagar,Private,42.33,37.95,27.9,29.4,119701.0,97.93
+PDEA's College of Engineering,Civil Engineering,Ahmednagar,Ahmednagar,Private,62.02,59.5,49.79,46.73,136018.0,79.93
+PDEA's College of Engineering,Electronics Engineering,Ahmednagar,Ahmednagar,Private,60.51,56.51,50.01,46.13,102520.0,80.35
+PDEA's College of Engineering,Aeronautical Engineering,Ahmednagar,Ahmednagar,Private,62.24,57.42,50.92,46.04,219753.0,75.33

@@ -1,24 +1,411 @@
 College,Program,General,OBC,SC,ST
-DKTE,Computer Science Engineering,92.54,89.54,80.54,74.54
-DKTE,Fashion Technology,90.76,87.76,78.76,72.76
-DKTE,Artificial Intelligence and Data Science,88.89,85.89,76.89,70.89
+AISSMS College of Engineering,Biotechnology Engineering,58.24,56.02,44.48,45.06
+AISSMS College of Engineering,Chemical Engineering,41.11,36.36,32.52,22.82
+AISSMS College of Engineering,Environmental Engineering,40.49,37.42,28.54,25.75
+AISSMS College of Engineering,Instrumentation Engineering,72.82,69.33,61.47,58.36
+AISSMS College of Engineering,Power Electronics,58.11,56.05,47.75,44.52
+AISSMS College of Engineering,Textile Engineering,69.46,66.26,55.48,53.0
+Annasaheb Dange College of Engineering,Aeronautical Engineering,49.98,46.05,38.89,32.91
+Annasaheb Dange College of Engineering,Computer Science and Engineering (Data Science),61.72,58.64,48.72,47.57
+Annasaheb Dange College of Engineering,Environmental Engineering,52.87,49.54,43.2,34.63
+Annasaheb Dange College of Engineering,IoT and Embedded Systems,71.04,69.02,62.9,53.9
+Annasaheb Dange College of Engineering,Textile Engineering,60.87,57.6,46.66,48.63
+Army Institute of Technology,Biotechnology Engineering,65.4,62.4,52.4,47.39
+Army Institute of Technology,Computer Science and Engineering (Data Science),67.24,63.97,53.44,53.94
+Army Institute of Technology,Environmental Engineering,59.81,55.06,45.81,40.7
+Army Institute of Technology,Production Engineering,69.43,64.45,58.06,52.87
+Ashokrao Mane Group of Institutions,Aeronautical Engineering,50.4,47.29,35.59,36.39
+Ashokrao Mane Group of Institutions,Agricultural Engineering,40.15,38.09,28.22,26.02
+Ashokrao Mane Group of Institutions,Artificial Intelligence and Data Science,70.18,66.61,59.88,54.27
+Ashokrao Mane Group of Institutions,Computer Science Engineering,68.43,66.35,53.79,52.81
+Ashokrao Mane Group of Institutions,IoT and Embedded Systems,51.28,46.36,39.24,38.25
+Ashokrao Mane Group of Institutions,Mechanical Engineering,48.27,44.98,37.25,29.6
+Ashokrao Mane Group of Institutions,Power Electronics,69.12,64.68,60.45,54.48
+Ashokrao Mane Group of Institutions,Software Engineering,49.87,45.4,35.04,32.21
+Bharati Vidyapeeth College of Engineering,Automobile Engineering,74.21,70.64,65.32,60.19
+Bharati Vidyapeeth College of Engineering,Chemical Engineering,45.79,42.71,34.2,32.9
+Bharati Vidyapeeth College of Engineering,Information Technology,47.67,43.74,38.5,29.72
+Bharati Vidyapeeth College of Engineering,IoT and Embedded Systems,65.79,61.5,56.71,53.09
+Bharati Vidyapeeth College of Engineering,Mechanical Engineering,41.54,39.27,27.46,22.5
+Bharati Vidyapeeth College of Engineering,Power Electronics,67.29,63.91,54.2,53.87
+College of Engineering Pune (CoEP),Civil Engineering,61.49,59.09,49.01,42.82
+College of Engineering Pune (CoEP),Computer Science Engineering,82.39,79.28,72.35,62.61
+College of Engineering Pune (CoEP),Computer Science and Engineering (AI & ML),70.05,68.02,56.14,54.47
+College of Engineering Pune (CoEP),IoT and Embedded Systems,83.81,78.97,69.41,67.41
+College of Engineering Pune (CoEP),Production Engineering,72.92,69.31,61.09,59.07
+Cummins College of Engineering for Women,Aeronautical Engineering,60.04,55.71,47.07,42.29
+Cummins College of Engineering for Women,Artificial Intelligence and Data Science,62.87,59.96,52.68,48.32
+Cummins College of Engineering for Women,Computer Science Engineering,62.35,57.43,50.79,49.53
+Cummins College of Engineering for Women,Electronics and Telecommunication Engineering,51.3,47.67,37.75,31.5
+Cummins College of Engineering for Women,Information Technology,42.09,39.66,31.91,29.86
+Cummins College of Engineering for Women,Textile Engineering,61.47,57.23,50.22,45.37
+DJ Sanghvi College of Engineering,Civil Engineering,42.2,38.07,31.31,22.32
+DJ Sanghvi College of Engineering,Computer Science Engineering,73.76,70.12,65.7,55.83
+DJ Sanghvi College of Engineering,Computer Science and Engineering (AI & ML),52.89,49.63,41.41,35.13
+DJ Sanghvi College of Engineering,IoT and Embedded Systems,69.53,64.59,58.02,56.64
+DJ Sanghvi College of Engineering,Power Electronics,66.69,62.63,56.05,50.3
+DJ Sanghvi College of Engineering,Production Engineering,58.79,55.76,47.81,45.61
 DKTE,Artificial Intelligence,87.3,84.3,75.3,69.3
-DKTE,Electronics & Telecommunication Engg.,86.12,83.12,74.12,68.12
-DKTE,Textile Chemistry,82.55,79.55,70.55,64.55
-DKTE,Electrical Engineering,79.94,76.94,67.94,61.94
-DKTE,Textile Technology,77.83,74.83,65.83,59.83
-DKTE,Mechanical Engineering,69.27,66.27,57.269999999999996,51.269999999999996
-DKTE,Man Made Textile Technology,67.84,64.84,55.84,49.84
+DKTE,Artificial Intelligence and Data Science,88.89,85.89,76.89,70.89
 DKTE,Civil Engineering,63.08,60.08,51.08,45.08
-DY Patil,Computer Science Engineering,81.71,78.71,69.71,63.709999999999994
-DY Patil,Artificial Intelligence and Machine Learning,79.13,76.13,67.13,61.129999999999995
-DY Patil,Electronics & Telecommunication Engg.,72.61,69.61,60.61,54.61
-DY Patil,Data Science,70.89,67.89,58.89,52.89
-DY Patil,Chemical Engineering,47.01,44.01,35.01,29.009999999999998
-DY Patil,Mechanical Engineering,42.22,39.22,30.22,24.22
+DKTE,Computer Science Engineering,92.54,89.54,80.54,74.54
+DKTE,Electrical Engineering,79.94,76.94,67.94,61.94
+DKTE,Electronics & Telecommunication Engg.,86.12,83.12,74.12,68.12
+DKTE,Fashion Technology,90.76,87.76,78.76,72.76
+DKTE,Man Made Textile Technology,67.84,64.84,55.84,49.84
+DKTE,Mechanical Engineering,69.27,66.27,57.27,51.27
+DKTE,Textile Chemistry,82.55,79.55,70.55,64.55
+DKTE,Textile Technology,77.83,74.83,65.83,59.83
+DKTE Textile and Engineering Institute,Automobile Engineering,55.36,51.7,41.07,42.29
+DKTE Textile and Engineering Institute,Computer Science and Engineering (Data Science),58.82,55.87,47.62,39.38
+DKTE Textile and Engineering Institute,Electrical Engineering,46.93,43.04,32.63,29.92
+DKTE Textile and Engineering Institute,Electronics Engineering,55.06,50.99,45.6,37.85
+DKTE Textile and Engineering Institute,Electronics and Telecommunication Engineering,40.93,37.69,30.37,21.81
+DKTE Textile and Engineering Institute,Environmental Engineering,71.29,66.4,60.76,52.16
+DKTE Textile and Engineering Institute,Information Technology,65.61,60.76,55.25,51.9
+DKTE Textile and Engineering Institute,IoT and Embedded Systems,61.62,56.68,53.26,43.16
+DY Patil,Artificial Intelligence and Machine Learning,79.13,76.13,67.13,61.13
+DY Patil,Chemical Engineering,47.01,44.01,35.01,29.01
 DY Patil,Civil Engineering,16.74,13.739999999999998,5.0,1.0
+DY Patil,Computer Science Engineering,81.71,78.71,69.71,63.71
+DY Patil,Data Science,70.89,67.89,58.89,52.89
+DY Patil,Electronics & Telecommunication Engg.,72.61,69.61,60.61,54.61
+DY Patil,Mechanical Engineering,42.22,39.22,30.22,24.22
+DY Patil Institute of Technology,Biotechnology Engineering,58.34,54.88,46.3,38.62
+DY Patil Institute of Technology,Chemical Engineering,71.1,66.93,57.65,55.89
+DY Patil Institute of Technology,Electronics Engineering,66.33,62.91,54.97,53.28
+DY Patil Institute of Technology,Electronics and Telecommunication Engineering,68.01,65.36,53.21,48.7
+DY Patil Institute of Technology,Mechanical Engineering,65.65,62.08,52.52,51.27
+DY Patil Institute of Technology,Production Engineering,67.11,64.61,57.46,49.25
+DY Patil Institute of Technology,Software Engineering,44.1,41.17,33.16,27.31
+Deogiri Institute of Engineering and Management Studies,Aeronautical Engineering,67.7,65.18,55.11,51.21
+Deogiri Institute of Engineering and Management Studies,Biotechnology Engineering,53.09,48.66,41.85,40.38
+Deogiri Institute of Engineering and Management Studies,Computer Science Engineering,78.84,76.47,68.82,65.19
+Deogiri Institute of Engineering and Management Studies,Computer Science and Engineering (Data Science),77.82,74.14,67.87,59.15
+Deogiri Institute of Engineering and Management Studies,Instrumentation Engineering,58.77,55.56,45.84,40.16
+Deogiri Institute of Engineering and Management Studies,Mechanical Engineering,58.51,53.71,45.74,43.62
+Deogiri Institute of Engineering and Management Studies,Production Engineering,63.27,60.52,53.98,44.94
+Dr. Babasaheb Ambedkar Technological University,Aeronautical Engineering,65.14,63.01,51.67,52.78
+Dr. Babasaheb Ambedkar Technological University,Agricultural Engineering,76.4,72.97,63.61,61.93
+Dr. Babasaheb Ambedkar Technological University,Automobile Engineering,79.15,74.62,66.43,64.33
+Dr. Babasaheb Ambedkar Technological University,Biotechnology Engineering,77.42,74.02,66.54,61.96
+Dr. Babasaheb Ambedkar Technological University,Civil Engineering,61.51,58.77,51.81,43.73
+Dr. Babasaheb Ambedkar Technological University,Computer Science Engineering,80.01,76.79,70.9,60.66
+Dr. Babasaheb Ambedkar Technological University,IoT and Embedded Systems,70.7,67.78,57.1,55.27
+Dr. Babasaheb Ambedkar Technological University,Software Engineering,79.61,75.21,71.24,62.48
+Dr. D.Y. Patil School of Engineering,Aeronautical Engineering,53.5,48.86,43.94,39.12
+Dr. D.Y. Patil School of Engineering,Automobile Engineering,42.33,39.98,28.14,30.18
+Dr. D.Y. Patil School of Engineering,Chemical Engineering,71.41,69.15,57.98,55.91
+Dr. D.Y. Patil School of Engineering,Computer Science and Engineering (Data Science),49.09,44.32,38.72,29.12
+Dr. D.Y. Patil School of Engineering,Electronics Engineering,68.32,66.17,55.55,53.41
+Dr. D.Y. Patil School of Engineering,Electronics and Telecommunication Engineering,41.67,39.34,30.91,25.24
+Dr. D.Y. Patil School of Engineering,Instrumentation Engineering,65.45,61.94,51.9,51.4
+Dr. D.Y. Patil School of Engineering,Production Engineering,57.22,53.02,43.55,37.75
+Dr. Panjabrao Deshmukh Agricultural University,Aeronautical Engineering,79.36,76.64,70.48,60.77
+Dr. Panjabrao Deshmukh Agricultural University,Agricultural Engineering,74.95,70.52,60.65,62.06
+Dr. Panjabrao Deshmukh Agricultural University,Artificial Intelligence and Data Science,74.42,70.43,65.97,58.16
+Dr. Panjabrao Deshmukh Agricultural University,Computer Science Engineering,84.73,82.14,76.16,68.94
+Dr. Panjabrao Deshmukh Agricultural University,Electronics and Telecommunication Engineering,74.37,69.81,63.51,57.16
+Dr. Panjabrao Deshmukh Agricultural University,Environmental Engineering,66.87,62.77,53.81,52.35
+Dr. Panjabrao Deshmukh Agricultural University,IoT and Embedded Systems,70.15,66.05,56.71,57.62
+Dr. Panjabrao Deshmukh Agricultural University,Textile Engineering,73.78,70.44,58.79,58.04
+Dr. Vithalrao Vikhe Patil College of Engineering,Computer Science and Engineering (Data Science),60.36,56.44,48.4,45.01
+Dr. Vithalrao Vikhe Patil College of Engineering,Electrical Engineering,72.89,69.59,58.33,55.81
+Dr. Vithalrao Vikhe Patil College of Engineering,Environmental Engineering,64.41,61.3,51.89,52.02
+Dr. Vithalrao Vikhe Patil College of Engineering,Power Electronics,74.39,70.15,63.58,60.0
+Dr. Vithalrao Vikhe Patil College of Engineering,Production Engineering,69.95,65.65,55.87,57.89
+Dr. Vithalrao Vikhe Patil College of Engineering,Software Engineering,52.54,50.05,42.76,33.33
+Fr. Conceicao Rodrigues College of Engineering,Agricultural Engineering,57.6,54.14,42.81,38.55
+Fr. Conceicao Rodrigues College of Engineering,Chemical Engineering,66.39,62.5,54.73,51.77
+Fr. Conceicao Rodrigues College of Engineering,Civil Engineering,44.94,40.37,33.12,26.02
+Fr. Conceicao Rodrigues College of Engineering,Computer Science Engineering,56.56,52.25,44.92,37.57
+Fr. Conceicao Rodrigues College of Engineering,Computer Science and Engineering (AI & ML),57.7,55.51,46.21,39.09
+Fr. Conceicao Rodrigues College of Engineering,Mechanical Engineering,68.42,65.11,54.54,54.89
+Fr. Conceicao Rodrigues College of Engineering,Power Electronics,51.37,49.26,42.87,32.83
+Fr. Conceicao Rodrigues College of Engineering,Textile Engineering,69.01,65.81,54.99,50.8
+G.H. Raisoni Academy of Engineering and Technology,Computer Science Engineering,64.13,60.12,50.56,46.62
+G.H. Raisoni Academy of Engineering and Technology,IoT and Embedded Systems,58.28,54.23,47.05,44.44
+G.H. Raisoni Academy of Engineering and Technology,Power Electronics,65.26,62.81,55.69,45.41
+G.H. Raisoni Academy of Engineering and Technology,Production Engineering,62.39,59.23,54.25,43.24
+G.H. Raisoni Academy of Engineering and Technology,Textile Engineering,45.52,42.76,37.25,30.41
+Genba Sopanrao Moze College of Engineering,Artificial Intelligence and Data Science,61.25,58.37,49.66,48.39
+Genba Sopanrao Moze College of Engineering,Chemical Engineering,49.42,46.82,40.26,34.2
+Genba Sopanrao Moze College of Engineering,Civil Engineering,39.42,35.73,30.97,25.9
+Genba Sopanrao Moze College of Engineering,Environmental Engineering,53.07,48.7,42.39,35.33
+Genba Sopanrao Moze College of Engineering,IoT and Embedded Systems,55.69,51.96,47.55,35.83
+Genba Sopanrao Moze College of Engineering,Mechanical Engineering,63.57,59.62,53.84,44.66
+Genba Sopanrao Moze College of Engineering,Power Electronics,72.98,70.57,59.3,59.58
+Genba Sopanrao Moze College of Engineering,Software Engineering,72.61,68.97,62.47,53.1
+Government College of Engineering Amravati,Aeronautical Engineering,71.59,67.6,57.19,58.76
+Government College of Engineering Amravati,Agricultural Engineering,76.6,72.37,63.12,61.99
+Government College of Engineering Amravati,Computer Science and Engineering (Data Science),74.07,69.24,60.46,56.8
+Government College of Engineering Amravati,Electrical Engineering,76.53,72.26,67.84,63.27
+Government College of Engineering Amravati,Electronics and Telecommunication Engineering,67.95,63.37,54.55,50.94
+Government College of Engineering Amravati,Mechanical Engineering,77.86,74.13,67.93,65.36
+Government College of Engineering Amravati,Power Electronics,77.14,74.7,65.82,61.28
+Government College of Engineering Amravati,Textile Engineering,77.12,72.66,68.59,60.71
+Government College of Engineering Aurangabad,Biotechnology Engineering,80.45,76.47,70.39,61.79
+Government College of Engineering Aurangabad,Chemical Engineering,74.99,70.03,66.82,59.29
+Government College of Engineering Aurangabad,Civil Engineering,78.94,75.56,66.76,59.49
+Government College of Engineering Aurangabad,Information Technology,66.77,61.9,58.23,50.9
+Government College of Engineering Aurangabad,IoT and Embedded Systems,84.45,80.99,76.02,71.92
+Government College of Engineering Aurangabad,Textile Engineering,71.82,67.71,58.73,57.03
+Government College of Engineering Nagpur,Biotechnology Engineering,80.5,75.8,66.13,67.26
+Government College of Engineering Nagpur,Electrical Engineering,66.44,61.6,54.62,52.46
+Government College of Engineering Nagpur,Mechanical Engineering,79.32,77.09,67.03,62.6
+Government College of Engineering Nagpur,Power Electronics,70.2,67.18,58.93,52.73
+Government Polytechnic Mumbai,Aeronautical Engineering,78.08,74.13,67.97,63.71
+Government Polytechnic Mumbai,Computer Science Engineering,85.65,81.15,77.51,71.32
+Government Polytechnic Mumbai,Electronics and Telecommunication Engineering,73.91,70.58,64.97,59.19
+Government Polytechnic Mumbai,Environmental Engineering,65.17,61.06,50.43,52.21
+Government Polytechnic Mumbai,Production Engineering,65.89,63.56,53.93,52.7
+Government Polytechnic Mumbai,Software Engineering,81.13,76.79,68.06,62.7
+Government Polytechnic Mumbai,Textile Engineering,67.29,64.02,56.15,48.95
+Government Polytechnic Pune,Electronics and Telecommunication Engineering,72.98,69.92,61.15,55.13
+Government Polytechnic Pune,Environmental Engineering,69.56,67.29,60.32,56.92
+Government Polytechnic Pune,Information Technology,75.47,71.64,63.75,57.37
+Government Polytechnic Pune,Instrumentation Engineering,71.78,68.67,62.88,52.94
+Government Polytechnic Pune,IoT and Embedded Systems,80.74,77.98,68.08,65.76
+Government Polytechnic Pune,Production Engineering,73.41,70.58,60.58,59.93
+Guru Nanak Institute of Technology,Chemical Engineering,72.57,68.02,63.85,54.78
+Guru Nanak Institute of Technology,Computer Science and Engineering (AI & ML),59.9,55.31,46.13,40.47
+Guru Nanak Institute of Technology,Computer Science and Engineering (Data Science),68.4,64.28,59.01,52.12
+Guru Nanak Institute of Technology,Environmental Engineering,44.02,41.69,29.91,25.21
+Guru Nanak Institute of Technology,Information Technology,42.9,39.36,34.19,23.84
+Guru Nanak Institute of Technology,Software Engineering,47.38,43.09,33.91,32.95
+Guru Nanak Institute of Technology,Textile Engineering,67.93,64.83,59.19,55.58
+Institute of Chemical Technology,Agricultural Engineering,74.69,72.51,60.18,61.97
+Institute of Chemical Technology,Artificial Intelligence and Data Science,87.19,83.69,75.99,70.51
+Institute of Chemical Technology,Automobile Engineering,84.93,81.34,71.31,66.11
+Institute of Chemical Technology,Civil Engineering,83.23,80.23,74.48,66.22
+Institute of Chemical Technology,Mechanical Engineering,83.28,79.65,70.07,67.64
+JSPM Solapur,Artificial Intelligence and Data Science,69.24,64.26,56.02,52.41
+JSPM Solapur,Chemical Engineering,74.98,71.77,62.85,57.37
+JSPM Solapur,Electrical Engineering,57.13,52.9,46.63,42.44
+JSPM Solapur,Electronics Engineering,44.75,41.8,30.45,28.89
+JSPM Solapur,Production Engineering,55.82,53.16,46.16,40.9
+JSPM's Rajarshi Shahu College of Engineering,Biotechnology Engineering,52.25,47.68,40.0,36.3
+JSPM's Rajarshi Shahu College of Engineering,Civil Engineering,69.77,65.57,61.05,54.51
+JSPM's Rajarshi Shahu College of Engineering,Computer Science Engineering,60.85,56.91,49.2,43.88
+JSPM's Rajarshi Shahu College of Engineering,Electrical Engineering,59.09,56.29,48.57,41.22
+JSPM's Rajarshi Shahu College of Engineering,Electronics and Telecommunication Engineering,45.52,42.79,32.81,27.74
+JSPM's Rajarshi Shahu College of Engineering,Environmental Engineering,48.4,45.08,38.8,31.48
+JSPM's Rajarshi Shahu College of Engineering,IoT and Embedded Systems,60.88,57.37,47.29,45.94
+JSPM's Rajarshi Shahu College of Engineering,Power Electronics,43.13,38.21,28.16,30.59
+K. J. Somaiya College of Engineering,Chemical Engineering,57.08,54.52,43.81,40.42
+K. J. Somaiya College of Engineering,Civil Engineering,42.13,37.45,30.01,23.84
+K. J. Somaiya College of Engineering,Electrical Engineering,53.93,51.32,42.29,41.29
+K. J. Somaiya College of Engineering,Power Electronics,64.49,60.72,53.85,44.71
+KIT,Artificial Intelligence and Machine Learning,94.02,91.02,82.02,76.02
 KIT,Biotechnology,98.59,95.59,86.59,80.59
 KIT,Computer Science Engineering,95.86,92.86,83.86,77.86
-KIT,Artificial Intelligence and Machine Learning,94.02,91.02,82.02,76.02
-KIT,Electronics & Telecommunication Engg.,91.95,88.95,79.95,73.95
 KIT,Computer Science and Business Systems,91.63,88.63,79.63,73.63
+KIT,Electronics & Telecommunication Engg.,91.95,88.95,79.95,73.95
+KIT's College of Engineering,Artificial Intelligence and Data Science,50.07,47.94,38.77,35.39
+KIT's College of Engineering,Biotechnology Engineering,69.76,65.45,57.28,52.71
+KIT's College of Engineering,Chemical Engineering,72.76,69.09,59.05,54.44
+KIT's College of Engineering,Computer Science and Engineering (AI & ML),77.04,74.3,62.37,61.32
+KIT's College of Engineering,Power Electronics,70.23,66.74,61.34,57.49
+KIT's College of Engineering,Production Engineering,43.96,41.79,31.7,30.16
+MGM College of Engineering,Agricultural Engineering,47.06,44.15,34.92,30.31
+MGM College of Engineering,Chemical Engineering,47.85,43.57,39.75,31.43
+MGM College of Engineering,Civil Engineering,37.67,35.45,22.68,20.02
+MGM College of Engineering,Electrical Engineering,67.53,65.4,55.0,50.39
+MGM College of Engineering,Electronics Engineering,62.68,58.07,52.61,44.46
+MGM College of Engineering,Information Technology,56.34,53.47,45.52,41.88
+MGM College of Engineering,Instrumentation Engineering,42.46,39.37,31.34,23.82
+MIDC School of Computing,Artificial Intelligence and Data Science,84.63,79.83,71.0,65.47
+MIDC School of Computing,Chemical Engineering,71.69,67.83,63.44,58.87
+MIDC School of Computing,Computer Science and Engineering (Data Science),76.8,73.47,62.58,57.3
+MIDC School of Computing,Mechanical Engineering,66.75,63.83,58.14,51.76
+MIDC School of Computing,Power Electronics,82.77,80.51,68.43,66.5
+MIT Academy of Engineering,Agricultural Engineering,64.35,60.87,53.43,52.18
+MIT Academy of Engineering,Biotechnology Engineering,64.26,59.73,52.2,48.87
+MIT Academy of Engineering,Chemical Engineering,68.25,63.65,56.74,50.74
+MIT Academy of Engineering,Electronics and Telecommunication Engineering,60.18,57.88,50.47,47.87
+MIT Academy of Engineering,Information Technology,51.54,47.88,38.32,35.57
+MIT Academy of Engineering,Textile Engineering,72.0,69.64,57.12,59.54
+MIT World Peace University,Computer Science and Engineering (Data Science),53.68,50.44,41.61,40.67
+MIT World Peace University,Electrical Engineering,55.63,52.22,42.77,37.8
+MIT World Peace University,Instrumentation Engineering,67.25,63.83,56.29,49.78
+MIT World Peace University,Textile Engineering,42.58,39.12,30.19,26.36
+"Manipal University, Jaipur (Maharashtra Campus)",Biotechnology Engineering,57.65,53.76,48.05,41.63
+"Manipal University, Jaipur (Maharashtra Campus)",Computer Science Engineering,46.43,42.97,33.14,26.9
+"Manipal University, Jaipur (Maharashtra Campus)",Electronics and Telecommunication Engineering,66.06,63.53,55.48,50.72
+"Manipal University, Jaipur (Maharashtra Campus)",Environmental Engineering,68.14,64.62,57.61,48.93
+Marathwada Institute of Technology,Aeronautical Engineering,68.22,66.11,56.29,52.46
+Marathwada Institute of Technology,Automobile Engineering,62.05,58.88,50.9,48.63
+Marathwada Institute of Technology,Electronics and Telecommunication Engineering,72.35,70.16,57.58,59.68
+Marathwada Institute of Technology,Power Electronics,67.4,65.23,53.13,48.16
+Marathwada Institute of Technology,Production Engineering,43.92,40.11,30.86,25.19
+Mukesh Patel School of Technology,Artificial Intelligence and Data Science,57.56,52.9,44.46,41.88
+Mukesh Patel School of Technology,Automobile Engineering,67.13,64.25,58.7,55.0
+Mukesh Patel School of Technology,Biotechnology Engineering,61.22,57.98,46.62,46.71
+Mukesh Patel School of Technology,Computer Science Engineering,77.28,73.18,64.01,64.64
+Mukesh Patel School of Technology,Computer Science and Engineering (AI & ML),46.01,43.55,32.16,28.41
+PDEA's College of Engineering,Aeronautical Engineering,62.24,57.42,50.92,46.04
+PDEA's College of Engineering,Civil Engineering,62.02,59.5,49.79,46.73
+PDEA's College of Engineering,Computer Science and Engineering (Data Science),65.04,61.45,52.09,48.84
+PDEA's College of Engineering,Electronics Engineering,60.51,56.51,50.01,46.13
+PDEA's College of Engineering,IoT and Embedded Systems,46.31,43.0,34.24,32.29
+PDEA's College of Engineering,Production Engineering,64.18,60.31,50.98,48.74
+PDEA's College of Engineering,Textile Engineering,42.33,37.95,27.9,29.4
+Pillar College of Engineering,Computer Science and Engineering (Data Science),74.6,69.91,65.67,56.12
+Pillar College of Engineering,Electrical Engineering,58.7,55.4,46.94,40.47
+Pillar College of Engineering,Electronics Engineering,71.56,69.2,57.93,56.98
+Pillar College of Engineering,IoT and Embedded Systems,54.77,51.45,43.93,42.6
+Pillar College of Engineering,Software Engineering,43.42,38.51,34.26,29.0
+Pimpri Chinchwad College of Engineering (PCCOE),Aeronautical Engineering,72.72,68.94,64.43,59.69
+Pimpri Chinchwad College of Engineering (PCCOE),Automobile Engineering,49.48,46.85,41.07,29.68
+Pimpri Chinchwad College of Engineering (PCCOE),Biotechnology Engineering,59.27,56.9,48.43,46.3
+Pimpri Chinchwad College of Engineering (PCCOE),Computer Science and Engineering (AI & ML),60.73,57.97,49.95,48.5
+Pimpri Chinchwad College of Engineering (PCCOE),Electronics Engineering,74.24,70.11,62.95,57.52
+Pimpri Chinchwad College of Engineering (PCCOE),IoT and Embedded Systems,45.17,43.08,32.89,25.58
+Pravara Rural College of Engineering,Agricultural Engineering,56.98,54.56,43.85,42.98
+Pravara Rural College of Engineering,Biotechnology Engineering,72.58,68.78,59.91,55.9
+Pravara Rural College of Engineering,Computer Science Engineering,79.59,75.75,65.69,59.67
+Pravara Rural College of Engineering,Computer Science and Engineering (AI & ML),52.74,50.35,38.31,32.74
+Pravara Rural College of Engineering,Electronics and Telecommunication Engineering,54.39,51.64,45.98,38.21
+Pravara Rural College of Engineering,Textile Engineering,56.93,54.18,44.39,37.81
+Priyadarshini College of Engineering,Environmental Engineering,51.95,49.9,37.15,39.57
+Priyadarshini College of Engineering,Information Technology,55.26,52.05,42.62,42.56
+Priyadarshini College of Engineering,Instrumentation Engineering,42.6,39.32,31.88,28.11
+Priyadarshini College of Engineering,IoT and Embedded Systems,48.58,44.82,39.72,32.26
+Priyadarshini College of Engineering,Mechanical Engineering,64.4,61.76,56.27,49.91
+Priyadarshini College of Engineering,Power Electronics,55.95,50.97,40.97,37.86
+Priyadarshini College of Engineering,Software Engineering,42.58,40.38,31.31,28.0
+Priyadarshini College of Engineering,Textile Engineering,65.16,63.03,54.34,51.91
+Pune Institute of Computer Technology (PICT),Artificial Intelligence and Data Science,51.04,46.1,36.12,34.3
+Pune Institute of Computer Technology (PICT),Biotechnology Engineering,66.89,62.89,52.81,54.81
+Pune Institute of Computer Technology (PICT),Electrical Engineering,52.27,49.97,39.26,33.62
+Pune Institute of Computer Technology (PICT),Instrumentation Engineering,48.61,44.66,38.16,30.27
+Pune Institute of Computer Technology (PICT),IoT and Embedded Systems,50.3,45.47,35.8,32.86
+RAISONI College of Engineering,Computer Science Engineering,65.81,62.61,57.34,46.14
+RAISONI College of Engineering,Electrical Engineering,56.6,54.44,44.48,43.77
+RAISONI College of Engineering,Electronics and Telecommunication Engineering,41.19,36.49,29.8,24.68
+RAISONI College of Engineering,Mechanical Engineering,45.73,43.03,31.92,28.61
+Rajarambapu Institute of Technology (RIT),Agricultural Engineering,58.63,56.16,47.96,42.04
+Rajarambapu Institute of Technology (RIT),Artificial Intelligence and Data Science,68.73,64.31,55.13,54.86
+Rajarambapu Institute of Technology (RIT),Biotechnology Engineering,66.13,61.91,53.71,46.71
+Rajarambapu Institute of Technology (RIT),Electrical Engineering,56.88,53.77,44.44,43.27
+Rajarambapu Institute of Technology (RIT),Environmental Engineering,47.8,44.77,39.58,32.43
+Rajarambapu Institute of Technology (RIT),Instrumentation Engineering,53.18,49.81,42.58,40.23
+Rajarambapu Institute of Technology (RIT),Production Engineering,68.2,64.44,60.02,56.17
+Rajarambapu Institute of Technology (RIT),Software Engineering,66.15,61.91,55.49,50.32
+Ramrao Adik Institute of Technology,Automobile Engineering,48.73,44.63,35.74,34.95
+Ramrao Adik Institute of Technology,Civil Engineering,62.63,57.9,50.64,43.41
+Ramrao Adik Institute of Technology,Environmental Engineering,52.59,48.39,40.55,37.22
+Ramrao Adik Institute of Technology,Information Technology,44.73,40.42,30.64,25.51
+Ramrao Adik Institute of Technology,Production Engineering,43.23,39.02,34.71,27.69
+SIES Graduate School of Technology,Aeronautical Engineering,48.14,46.08,37.49,35.96
+SIES Graduate School of Technology,Automobile Engineering,49.44,45.35,35.16,29.54
+SIES Graduate School of Technology,Civil Engineering,38.5,35.42,24.18,19.03
+SIES Graduate School of Technology,Instrumentation Engineering,65.95,62.97,54.51,53.83
+SIES Graduate School of Technology,Power Electronics,55.13,51.03,41.55,37.81
+SIES Graduate School of Technology,Production Engineering,61.91,58.13,52.11,48.61
+Sanjivani College of Engineering,Aeronautical Engineering,42.55,39.87,31.46,30.52
+Sanjivani College of Engineering,Artificial Intelligence and Data Science,43.59,41.21,30.57,28.02
+Sanjivani College of Engineering,Biotechnology Engineering,51.67,47.86,37.37,32.85
+Sanjivani College of Engineering,Chemical Engineering,46.92,43.57,34.17,27.08
+Sanjivani College of Engineering,Civil Engineering,48.14,45.31,37.19,29.12
+Sanjivani College of Engineering,Environmental Engineering,57.86,53.9,47.83,39.76
+Sanjivani College of Engineering,Power Electronics,69.56,64.84,59.34,49.85
+Sanjivani College of Engineering,Production Engineering,56.49,53.46,43.93,38.81
+Shantidoot Madhavrao Patil College of Engineering,Agricultural Engineering,49.74,47.04,36.03,35.45
+Shantidoot Madhavrao Patil College of Engineering,Artificial Intelligence and Data Science,49.9,46.0,38.05,36.17
+Shantidoot Madhavrao Patil College of Engineering,Automobile Engineering,40.04,36.55,25.99,26.3
+Shantidoot Madhavrao Patil College of Engineering,Electrical Engineering,66.89,63.97,53.35,47.68
+Shantidoot Madhavrao Patil College of Engineering,Information Technology,41.92,39.11,29.95,25.78
+Shree L.R. Tiwari College of Engineering,Automobile Engineering,64.44,60.07,54.34,47.96
+Shree L.R. Tiwari College of Engineering,Computer Science and Engineering (Data Science),72.54,69.74,62.1,53.65
+Shree L.R. Tiwari College of Engineering,Electrical Engineering,66.55,62.62,58.42,51.57
+Shree L.R. Tiwari College of Engineering,Power Electronics,40.74,35.87,27.37,22.95
+Shree L.R. Tiwari College of Engineering,Textile Engineering,44.34,40.01,30.65,28.6
+Sinhgad Academy of Engineering,Aeronautical Engineering,42.1,37.9,32.47,24.5
+Sinhgad Academy of Engineering,Chemical Engineering,42.85,39.32,31.24,23.33
+Sinhgad Academy of Engineering,Computer Science and Engineering (AI & ML),64.86,60.58,56.02,51.67
+Sinhgad Academy of Engineering,IoT and Embedded Systems,65.44,62.13,55.61,51.13
+Sinhgad Academy of Engineering,Mechanical Engineering,71.13,69.07,61.59,58.09
+Sinhgad Academy of Engineering,Production Engineering,68.9,65.31,56.05,55.46
+Sinhgad Academy of Engineering,Software Engineering,69.84,66.8,58.98,52.63
+Sinhgad College of Engineering,Computer Science and Engineering (AI & ML),77.35,73.16,62.5,59.71
+Sinhgad College of Engineering,Instrumentation Engineering,52.97,49.01,40.4,33.75
+Sinhgad College of Engineering,Mechanical Engineering,46.09,42.17,33.35,33.0
+Sinhgad College of Engineering,Power Electronics,74.15,69.62,65.43,55.51
+Sinhgad College of Engineering,Production Engineering,70.45,66.04,58.51,56.59
+Sinhgad College of Engineering,Textile Engineering,65.47,62.61,51.01,51.39
+Sinhgad Institute of Technology,Automobile Engineering,67.61,63.0,54.38,50.02
+Sinhgad Institute of Technology,Chemical Engineering,50.13,47.52,37.3,32.61
+Sinhgad Institute of Technology,Computer Science Engineering,77.93,75.88,66.21,62.9
+Sinhgad Institute of Technology,Production Engineering,42.65,38.61,30.02,24.26
+Solapur University College of Engineering,Electronics Engineering,77.32,75.23,65.62,62.3
+Solapur University College of Engineering,Electronics and Telecommunication Engineering,73.43,68.63,61.42,56.53
+Solapur University College of Engineering,Instrumentation Engineering,70.8,66.03,56.89,53.95
+Solapur University College of Engineering,IoT and Embedded Systems,67.97,63.25,57.22,52.09
+Solapur University College of Engineering,Software Engineering,76.26,73.86,62.14,56.41
+Solapur University College of Engineering,Textile Engineering,76.39,74.15,67.1,58.99
+Swami Ramanand Teerth Marathwada University,Agricultural Engineering,61.78,58.5,49.26,43.09
+Swami Ramanand Teerth Marathwada University,Automobile Engineering,82.35,78.89,73.63,69.57
+Swami Ramanand Teerth Marathwada University,Electronics Engineering,74.15,70.6,63.71,60.18
+Swami Ramanand Teerth Marathwada University,Electronics and Telecommunication Engineering,79.46,76.95,68.88,60.88
+Swami Ramanand Teerth Marathwada University,Environmental Engineering,67.6,63.51,54.74,51.69
+Swami Ramanand Teerth Marathwada University,Textile Engineering,81.77,79.31,67.05,67.44
+Symbiosis Institute of Technology,Chemical Engineering,41.34,38.25,30.42,21.54
+Symbiosis Institute of Technology,Civil Engineering,50.73,46.88,38.66,31.18
+Symbiosis Institute of Technology,IoT and Embedded Systems,47.21,43.46,33.45,28.6
+Symbiosis Institute of Technology,Production Engineering,44.56,41.48,35.43,28.08
+Terna Engineering College,Automobile Engineering,52.39,47.79,41.55,37.24
+Terna Engineering College,Biotechnology Engineering,67.72,65.48,58.09,48.1
+Terna Engineering College,Electrical Engineering,46.84,44.47,35.2,34.32
+Terna Engineering College,Instrumentation Engineering,66.86,64.67,54.72,49.95
+Terna Engineering College,IoT and Embedded Systems,65.62,61.61,55.02,53.1
+Terna Engineering College,Production Engineering,56.47,53.7,44.91,43.98
+Terna Engineering College,Software Engineering,43.03,39.97,34.08,29.27
+Thadomal Shahani Engineering College,Automobile Engineering,66.63,63.94,53.68,50.89
+Thadomal Shahani Engineering College,Computer Science and Engineering (AI & ML),55.0,51.26,46.25,35.88
+Thadomal Shahani Engineering College,IoT and Embedded Systems,46.18,43.25,36.07,31.22
+Thadomal Shahani Engineering College,Mechanical Engineering,71.09,66.48,60.18,54.2
+Thadomal Shahani Engineering College,Software Engineering,63.92,60.35,55.22,50.93
+Thakur College of Engineering and Technology,Biotechnology Engineering,42.4,40.34,33.63,24.21
+Thakur College of Engineering and Technology,Computer Science and Engineering (AI & ML),52.49,48.1,42.96,37.62
+Thakur College of Engineering and Technology,Electrical Engineering,64.66,61.26,52.27,46.84
+Thakur College of Engineering and Technology,Information Technology,43.84,38.87,35.6,25.26
+Thakur College of Engineering and Technology,Production Engineering,59.55,55.7,47.54,44.43
+Veermata Jijabai Technological Institute (VJTI),Aeronautical Engineering,73.59,71.06,61.48,56.03
+Veermata Jijabai Technological Institute (VJTI),Agricultural Engineering,66.95,63.68,52.72,52.25
+Veermata Jijabai Technological Institute (VJTI),Chemical Engineering,73.39,68.77,64.88,56.23
+Veermata Jijabai Technological Institute (VJTI),Software Engineering,66.96,63.61,56.41,54.05
+Veermata Jijabai Technological Institute (VJTI),Textile Engineering,72.98,69.26,59.42,60.36
+Vidyalankar School of Information Technology,Civil Engineering,61.03,58.0,47.72,45.59
+Vidyalankar School of Information Technology,Computer Science and Engineering (AI & ML),65.88,62.13,51.68,47.4
+Vidyalankar School of Information Technology,Computer Science and Engineering (Data Science),59.22,56.9,49.18,41.89
+Vidyalankar School of Information Technology,Electronics and Telecommunication Engineering,74.98,70.39,61.1,60.55
+Vidyalankar School of Information Technology,Environmental Engineering,44.34,41.79,33.62,25.95
+Vidyalankar School of Information Technology,Production Engineering,50.37,46.83,36.91,38.0
+Vishwakarma Institute of Technology,Aeronautical Engineering,70.75,66.26,62.38,57.88
+Vishwakarma Institute of Technology,Biotechnology Engineering,74.16,71.21,65.46,54.18
+Vishwakarma Institute of Technology,Chemical Engineering,69.85,66.41,60.95,57.47
+Vishwakarma Institute of Technology,Electronics Engineering,56.77,54.04,42.78,44.03
+Vishwakarma Institute of Technology,Mechanical Engineering,66.27,61.54,54.63,53.62
+Vishwakarma Institute of Technology,Software Engineering,50.23,46.89,38.71,30.41
+Visvesvaraya National Institute of Technology (VNIT),Biotechnology Engineering,91.68,87.18,78.76,73.9
+Visvesvaraya National Institute of Technology (VNIT),Computer Science Engineering,94.31,91.22,82.87,81.64
+Visvesvaraya National Institute of Technology (VNIT),Environmental Engineering,94.4,92.16,84.19,78.68
+Visvesvaraya National Institute of Technology (VNIT),IoT and Embedded Systems,87.98,85.49,76.88,69.7
+Visvesvaraya National Institute of Technology (VNIT),Textile Engineering,88.83,84.83,79.02,69.51
+Vivekanand Education Society's Institute of Technology,Agricultural Engineering,53.62,51.13,40.5,38.07
+Vivekanand Education Society's Institute of Technology,Chemical Engineering,65.74,62.44,56.93,47.65
+Vivekanand Education Society's Institute of Technology,Computer Science and Engineering (AI & ML),49.81,45.47,37.45,33.61
+Vivekanand Education Society's Institute of Technology,Software Engineering,56.4,52.24,42.48,41.59
+Walchand College of Engineering,Agricultural Engineering,67.48,62.81,58.53,54.16
+Walchand College of Engineering,Automobile Engineering,59.7,56.99,44.86,43.17
+Walchand College of Engineering,Computer Science and Engineering (AI & ML),52.78,49.37,39.61,36.46
+Walchand College of Engineering,Information Technology,56.97,52.78,47.32,38.5
+Walchand College of Engineering,Mechanical Engineering,73.25,69.74,59.14,56.49
+Yeshwantrao Chavan College of Engineering,Aeronautical Engineering,69.44,67.19,56.42,53.01
+Yeshwantrao Chavan College of Engineering,Artificial Intelligence and Data Science,47.42,42.74,33.11,34.13
+Yeshwantrao Chavan College of Engineering,Biotechnology Engineering,44.27,39.56,30.49,28.96
+Yeshwantrao Chavan College of Engineering,Environmental Engineering,69.31,65.04,56.42,53.74
+Yeshwantrao Chavan College of Engineering,Information Technology,40.79,38.16,32.53,24.71
+Yeshwantrao Chavan College of Engineering,Instrumentation Engineering,57.26,54.73,45.78,40.11
+Yeshwantrao Chavan College of Engineering,Production Engineering,64.71,61.48,55.22,50.01

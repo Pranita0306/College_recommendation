@@ -1,0 +1,117 @@
+College,Program,Location,Type,General,OBC,SC,ST,Fees (Annual),Average_Placement_%
+DKTE Textile and Engineering Institute,Textile Engineering,Kolhapur,Engineering,70.11,68.0,59.0,58.08,186580.0,94.24
+DKTE Textile and Engineering Institute,Chemical Engineering,Kolhapur,Engineering,84.31,81.64,70.57,65.75,134327.0,96.59
+DKTE Textile and Engineering Institute,Biotechnology,Kolhapur,Engineering,85.73,82.85,71.79,73.5,118832.0,81.95
+DKTE Textile and Engineering Institute,Mechanical Engineering,Kolhapur,Engineering,89.07,84.49,80.77,76.23,138519.0,74.27
+DKTE Textile and Engineering Institute,Civil Engineering,Kolhapur,Engineering,64.7,62.27,55.73,47.57,131681.0,98.28
+DKTE Textile and Engineering Institute,Computer Science Engineering,Kolhapur,Engineering,54.56,50.71,44.54,37.31,99267.0,83.25
+DY Patil School of Engineering,Civil Engineering,Pune,Engineering,66.71,64.09,57.44,47.45,134391.0,81.06
+DY Patil School of Engineering,Textile Engineering,Pune,Engineering,80.33,78.25,72.09,66.12,50695.0,81.29
+DY Patil School of Engineering,Mechanical Engineering,Pune,Engineering,69.2,64.9,60.9,55.39,148949.0,91.37
+DY Patil School of Engineering,Computer Science Engineering,Pune,Engineering,79.15,76.21,69.26,65.84,157347.0,81.99
+Pimpri Chinchwad College of Engineering,Mechanical Engineering,Pune,Engineering,91.07,87.41,78.77,76.86,103670.0,86.75
+Pimpri Chinchwad College of Engineering,Civil Engineering,Pune,Engineering,78.63,75.8,70.58,59.38,113974.0,74.07
+Pimpri Chinchwad College of Engineering,Electrical Engineering,Pune,Engineering,65.86,63.75,53.92,46.7,95231.0,97.17
+Pimpri Chinchwad College of Engineering,Chemical Engineering,Pune,Engineering,55.37,50.86,43.29,36.52,110309.0,85.45
+College of Engineering Pune,Information Technology,Pune,Engineering,64.46,59.7,54.46,51.41,63301.0,75.09
+College of Engineering Pune,Civil Engineering,Pune,Engineering,91.98,88.21,79.84,78.61,199919.0,82.41
+College of Engineering Pune,Biotechnology,Pune,Engineering,89.42,86.86,79.53,72.36,117484.0,88.98
+Visvesvaraya National Institute of Technology,Computer Science Engineering,Nagpur,Engineering,88.71,84.58,73.99,76.26,110461.0,98.36
+Visvesvaraya National Institute of Technology,Biotechnology,Nagpur,Engineering,81.79,77.35,73.02,61.96,183005.0,82.29
+Visvesvaraya National Institute of Technology,Artificial Intelligence and Data Science,Nagpur,Engineering,68.39,64.29,55.69,48.81,128011.0,84.41
+Visvesvaraya National Institute of Technology,Mechanical Engineering,Nagpur,Engineering,82.44,78.68,70.08,64.73,81187.0,86.2
+NIT Nagpur,Chemical Engineering,Nagpur,Engineering,71.07,68.75,62.99,52.09,170482.0,73.73
+NIT Nagpur,Mechanical Engineering,Nagpur,Engineering,52.31,49.94,43.16,37.58,80377.0,89.69
+NIT Nagpur,Artificial Intelligence and Data Science,Nagpur,Engineering,73.07,68.73,59.26,59.15,79411.0,83.68
+KIT's College of Engineering,Mechanical Engineering,Kolhapur,Engineering,72.82,70.37,63.52,55.18,192060.0,86.09
+KIT's College of Engineering,Information Technology,Kolhapur,Engineering,53.96,51.57,39.74,39.01,124337.0,73.46
+KIT's College of Engineering,Electronics and Telecommunication,Kolhapur,Engineering,57.3,54.73,48.33,39.32,185558.0,73.26
+KIT's College of Engineering,Textile Engineering,Kolhapur,Engineering,61.47,58.38,49.46,46.11,98395.0,82.59
+Rajarambapu Institute of Technology,Biotechnology,Ratnagiri,Engineering,57.6,54.5,47.3,40.74,135928.0,88.34
+Rajarambapu Institute of Technology,Artificial Intelligence and Data Science,Ratnagiri,Engineering,80.63,76.31,70.67,64.05,165395.0,78.54
+Rajarambapu Institute of Technology,Computer Science Engineering,Ratnagiri,Engineering,94.62,91.02,81.5,77.31,134558.0,98.48
+Rajarambapu Institute of Technology,Electrical Engineering,Ratnagiri,Engineering,60.16,58.14,46.62,45.81,166867.0,95.5
+Dr. Babasaheb Ambedkar Technological University,Artificial Intelligence and Data Science,Lonere,Engineering,62.99,60.41,48.51,44.59,178944.0,80.05
+Dr. Babasaheb Ambedkar Technological University,Computer Science Engineering,Lonere,Engineering,75.93,71.29,65.72,56.4,81959.0,95.28
+Dr. Babasaheb Ambedkar Technological University,Textile Engineering,Lonere,Engineering,56.95,54.1,42.31,37.37,149425.0,86.39
+MIT Academy of Engineering,Information Technology,Pune,Engineering,52.69,49.17,40.55,32.83,164965.0,77.86
+MIT Academy of Engineering,Electrical Engineering,Pune,Engineering,74.7,72.53,61.26,56.28,119785.0,99.84
+MIT Academy of Engineering,Electronics and Telecommunication,Pune,Engineering,55.51,53.09,40.59,36.21,100395.0,80.18
+MIT Academy of Engineering,Mechanical Engineering,Pune,Engineering,93.06,89.51,84.35,73.41,171959.0,97.51
+MIT Academy of Engineering,Artificial Intelligence and Data Science,Pune,Engineering,63.89,61.37,55.24,45.94,181643.0,86.71
+MIT Academy of Engineering,Biotechnology,Pune,Engineering,48.02,45.06,38.57,31.76,70905.0,79.1
+Bharati Vidyapeeth (Deemed University) College of Engineering,Artificial Intelligence and Data Science,Pune,Engineering,50.38,47.88,36.03,37.96,108057.0,86.78
+Bharati Vidyapeeth (Deemed University) College of Engineering,Chemical Engineering,Pune,Engineering,70.18,65.89,56.47,54.5,184705.0,72.98
+Bharati Vidyapeeth (Deemed University) College of Engineering,Information Technology,Pune,Engineering,76.98,74.78,63.99,61.53,104865.0,94.28
+Bharati Vidyapeeth (Deemed University) College of Engineering,Electrical Engineering,Pune,Engineering,45.7,41.95,34.11,28.1,150049.0,97.02
+Bharati Vidyapeeth (Deemed University) College of Engineering,Textile Engineering,Pune,Engineering,63.44,60.42,48.89,46.94,55339.0,87.41
+Bharati Vidyapeeth (Deemed University) College of Engineering,Civil Engineering,Pune,Engineering,91.44,87.28,78.13,74.44,136300.0,94.13
+Army Institute of Technology,Textile Engineering,Pune,Engineering,55.87,53.6,45.4,39.82,122871.0,92.57
+Army Institute of Technology,Chemical Engineering,Pune,Engineering,80.34,75.8,68.78,63.83,164258.0,89.56
+Army Institute of Technology,Civil Engineering,Pune,Engineering,48.8,46.33,38.3,33.87,87289.0,86.34
+Army Institute of Technology,Information Technology,Pune,Engineering,49.64,46.07,35.43,34.94,170892.0,82.27
+Veermata Jijabai Technological Institute,Civil Engineering,Mumbai,Engineering,54.14,49.49,42.4,41.83,129259.0,82.02
+Veermata Jijabai Technological Institute,Mechanical Engineering,Mumbai,Engineering,66.7,63.18,52.65,48.55,142127.0,81.3
+Veermata Jijabai Technological Institute,Textile Engineering,Mumbai,Engineering,89.53,85.42,74.87,70.44,54981.0,89.94
+Institute of Chemical Technology,Civil Engineering,Mumbai,Engineering,74.49,70.47,61.42,60.9,60649.0,83.67
+Institute of Chemical Technology,Artificial Intelligence and Data Science,Mumbai,Engineering,48.6,45.79,35.62,34.23,93720.0,94.04
+Institute of Chemical Technology,Computer Science Engineering,Mumbai,Engineering,45.23,41.2,34.57,31.94,96715.0,76.61
+Institute of Chemical Technology,Electronics and Telecommunication,Mumbai,Engineering,75.81,71.11,63.36,59.55,51335.0,83.7
+Institute of Chemical Technology,Information Technology,Mumbai,Engineering,54.59,51.17,42.75,35.68,133009.0,84.69
+Thakur College of Engineering and Technology,Artificial Intelligence and Data Science,Mumbai,Engineering,66.85,64.55,54.87,48.43,76625.0,91.71
+Thakur College of Engineering and Technology,Electronics and Telecommunication,Mumbai,Engineering,55.28,51.5,46.74,39.92,101221.0,82.59
+Thakur College of Engineering and Technology,Textile Engineering,Mumbai,Engineering,50.79,47.76,40.51,37.97,80937.0,71.3
+Thakur College of Engineering and Technology,Information Technology,Mumbai,Engineering,66.26,62.66,57.44,51.98,75529.0,93.44
+Fr. Conceicao Rodrigues College of Engineering,Biotechnology,Mumbai,Engineering,86.19,82.14,77.56,70.94,74226.0,79.9
+Fr. Conceicao Rodrigues College of Engineering,Artificial Intelligence and Data Science,Mumbai,Engineering,49.29,44.36,38.28,32.39,157930.0,91.72
+Fr. Conceicao Rodrigues College of Engineering,Textile Engineering,Mumbai,Engineering,78.36,74.79,66.02,61.03,92949.0,86.55
+DJ Sanghvi College of Engineering,Electronics and Telecommunication,Mumbai,Engineering,47.56,44.39,38.25,33.42,95812.0,74.24
+DJ Sanghvi College of Engineering,Chemical Engineering,Mumbai,Engineering,64.32,60.5,55.24,51.55,168943.0,86.73
+DJ Sanghvi College of Engineering,Artificial Intelligence and Data Science,Mumbai,Engineering,81.88,78.63,67.36,66.39,72135.0,99.72
+DJ Sanghvi College of Engineering,Electrical Engineering,Mumbai,Engineering,93.31,89.85,85.12,78.04,133536.0,98.19
+Thadomal Shahani Engineering College,Civil Engineering,Mumbai,Engineering,80.04,77.56,71.79,66.75,116734.0,93.47
+Thadomal Shahani Engineering College,Textile Engineering,Mumbai,Engineering,87.2,83.61,72.95,75.12,134478.0,78.93
+Thadomal Shahani Engineering College,Biotechnology,Mumbai,Engineering,89.02,86.9,80.55,74.12,195272.0,95.19
+Thadomal Shahani Engineering College,Information Technology,Mumbai,Engineering,64.39,61.71,55.21,45.46,115585.0,74.38
+FIITJEE College,Civil Engineering,Mumbai,Engineering,68.33,64.2,55.28,55.82,149808.0,94.82
+FIITJEE College,Electrical Engineering,Mumbai,Engineering,92.41,89.49,83.95,76.83,96412.0,90.64
+FIITJEE College,Information Technology,Mumbai,Engineering,92.18,88.1,82.89,73.18,57766.0,76.98
+FIITJEE College,Artificial Intelligence and Data Science,Mumbai,Engineering,65.52,62.88,50.94,50.15,133584.0,75.16
+Vidyalankar School of Information Technology,Biotechnology,Mumbai,Engineering,70.02,67.41,56.72,51.46,144842.0,94.07
+Vidyalankar School of Information Technology,Chemical Engineering,Mumbai,Engineering,63.72,58.94,51.75,46.9,67181.0,80.7
+Vidyalankar School of Information Technology,Textile Engineering,Mumbai,Engineering,47.2,45.09,32.81,28.39,165953.0,80.39
+Vidyalankar School of Information Technology,Mechanical Engineering,Mumbai,Engineering,54.31,52.15,45.57,39.08,58457.0,95.44
+Vidyalankar School of Information Technology,Computer Science Engineering,Mumbai,Engineering,66.68,62.9,58.29,51.27,134938.0,81.3
+Vidyalankar School of Information Technology,Information Technology,Mumbai,Engineering,68.39,64.03,57.8,55.06,151811.0,97.1
+Government College of Engineering Aurangabad,Textile Engineering,Aurangabad,Engineering,91.45,87.62,80.12,79.18,158647.0,85.3
+Government College of Engineering Aurangabad,Chemical Engineering,Aurangabad,Engineering,83.73,80.76,73.98,66.23,136651.0,75.98
+Government College of Engineering Aurangabad,Biotechnology,Aurangabad,Engineering,53.78,49.67,41.41,41.18,196251.0,87.85
+Government College of Engineering Aurangabad,Electronics and Telecommunication,Aurangabad,Engineering,94.36,92.22,82.11,78.44,109657.0,75.44
+Government College of Engineering Aurangabad,Artificial Intelligence and Data Science,Aurangabad,Engineering,91.38,88.05,77.87,76.49,75532.0,85.45
+Government College of Engineering Aurangabad,Information Technology,Aurangabad,Engineering,54.25,52.13,43.99,35.52,172857.0,75.38
+SIES Graduate School of Technology,Civil Engineering,Mumbai,Engineering,85.25,81.49,74.66,67.84,70409.0,75.41
+SIES Graduate School of Technology,Artificial Intelligence and Data Science,Mumbai,Engineering,86.83,82.31,74.59,72.87,157273.0,95.15
+SIES Graduate School of Technology,Electronics and Telecommunication,Mumbai,Engineering,64.67,60.91,52.11,50.65,103383.0,95.63
+SIES Graduate School of Technology,Electrical Engineering,Mumbai,Engineering,67.26,64.79,56.58,50.22,69322.0,73.69
+Walchand College of Engineering,Mechanical Engineering,Sangli,Engineering,67.54,63.37,53.3,47.81,168277.0,99.12
+Walchand College of Engineering,Civil Engineering,Sangli,Engineering,87.9,83.91,75.04,69.85,63969.0,84.11
+Walchand College of Engineering,Chemical Engineering,Sangli,Engineering,71.28,68.64,60.97,57.08,199865.0,71.92
+Walchand College of Engineering,Electronics and Telecommunication,Sangli,Engineering,93.0,88.21,82.74,77.43,199532.0,89.34
+Walchand College of Engineering,Electrical Engineering,Sangli,Engineering,94.34,89.82,84.95,78.98,163735.0,92.67
+Dr. Babasaheb Ambedkar Marathwada University,Information Technology,Aurangabad,Engineering,51.93,49.16,41.4,35.62,108757.0,83.05
+Dr. Babasaheb Ambedkar Marathwada University,Electronics and Telecommunication,Aurangabad,Engineering,72.82,69.43,64.82,58.07,96406.0,79.0
+Dr. Babasaheb Ambedkar Marathwada University,Civil Engineering,Aurangabad,Engineering,52.06,50.0,41.01,33.37,127014.0,76.73
+Guru Nanak Institute of Technology,Computer Science Engineering,Ibadpur,Engineering,76.93,73.07,68.2,58.98,56075.0,83.82
+Guru Nanak Institute of Technology,Civil Engineering,Ibadpur,Engineering,84.38,80.38,74.78,67.09,100050.0,86.46
+Guru Nanak Institute of Technology,Textile Engineering,Ibadpur,Engineering,62.43,57.98,52.72,45.17,199873.0,86.14
+Guru Nanak Institute of Technology,Information Technology,Ibadpur,Engineering,55.43,52.07,43.15,35.46,98253.0,70.34
+Yeshwantrao Chavan College of Engineering,Artificial Intelligence and Data Science,Nagpur,Engineering,86.63,82.12,74.43,67.38,106961.0,82.16
+Yeshwantrao Chavan College of Engineering,Textile Engineering,Nagpur,Engineering,61.46,59.28,51.97,45.08,189479.0,91.89
+Yeshwantrao Chavan College of Engineering,Information Technology,Nagpur,Engineering,64.31,60.4,54.91,48.72,192005.0,70.62
+Yeshwantrao Chavan College of Engineering,Mechanical Engineering,Nagpur,Engineering,83.92,79.48,69.09,71.9,82901.0,81.89
+RAISONI College of Engineering,Electrical Engineering,Nagpur,Engineering,65.61,61.02,52.74,49.05,113679.0,84.28
+RAISONI College of Engineering,Biotechnology,Nagpur,Engineering,60.87,56.86,51.08,46.13,84003.0,93.26
+RAISONI College of Engineering,Civil Engineering,Nagpur,Engineering,52.37,48.02,40.28,35.07,151293.0,70.86
+RAISONI College of Engineering,Computer Science Engineering,Nagpur,Engineering,81.66,77.09,71.12,61.82,96947.0,99.41
+RAISONI College of Engineering,Electronics and Telecommunication,Nagpur,Engineering,57.74,55.16,43.48,41.07,108770.0,87.38
+RAISONI College of Engineering,Mechanical Engineering,Nagpur,Engineering,76.21,74.1,67.06,60.34,167170.0,72.54
